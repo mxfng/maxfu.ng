@@ -76,6 +76,8 @@ Viewed through this lens, the NIMBY impulse reveals itself as class interest. Fo
 
 The deeper irony is that this homeowner class — in safeguarding its own wealth — ends up undermining the future of its own children. Each passing decade of manufactured scarcity leaves new generations with fewer choices about how they want to live and, more importantly, where they can live. In trying to preserve their slice of security, they’ve created a landscape where their descendants inherit less freedom, less mobility, and a narrowing horizon of possibility, which is arguably antithetical to their interests.
 
+And for some people, the consequences are far more violent. California’s homelessness crisis is among the worst in the nation, and a growing body of research makes it unmistakably clear that housing availability, and ultimately affordability, is one of the strongest predictors of rising homelessness rates. When someone is pushed into living unhoused, they aren’t simply “struggling” — they are exposed to the elements, cut off from community, and forced into a state of social isolation and vulnerability that represents capitalist alienation at its most extreme. Homelessness sits at the bitter core of our culture’s rot — a society that has learned to tolerate mass suffering as the acceptable price of commodified housing, and to accept human precarity as a natural byproduct of the market rather than a political choice.
+
 The dissonance is clear. A system built around protecting property values and prioritizing the selfish interests of homeowners inevitably collides with the simple moral intuition that housing should be more than a luxury. To us leftists, housing is a human right.
 
 ## From Marxist Diagnosis to Reformist Solutions
@@ -129,7 +131,7 @@ Reforms at the state level are necessary, but they are still operating within th
 
 Vienna has become the canonical example of social housing that works. Social housing there is not “public housing” in the American sense — stigmatized, underfunded, and isolated. It is mixed-income, widely distributed, and built to high architectural standards. The city acts as a long-term steward rather than a landlord of last resort, constructing durable buildings, maintaining them rigorously, and keeping them permanently outside the speculative market. This model treats housing as infrastructure, like transit or schools: a public good that stabilizes the entire city, not just its poorest residents.
 
-#### Key facts:
+#### Key facts
 
 - The city owns ~220,000 units and regulates another ~200,000 via limited-profit cooperatives (Wiener Wohnen).
 - 43–60% of all Viennese live in public or cooperative housing.
@@ -179,6 +181,28 @@ California has only begun inching toward these tools — with local vacancy taxe
 
 A leftist, revisionist program would invert that logic: if speculation fuels unaffordability, then reducing speculative incentives becomes a core pillar of housing policy.
 
+## What a Marxist Solution Looks Like
+
+If a Marxist analysis explains why the crisis exists, a Marxist solution would address the root rather than the symptoms. At its core, it would mean abolishing the private ownership of land and reorganizing housing around collective need rather than profit. Housing would become a public utility — like water, power, or education — something planned democratically and allocated according to human necessity.
+
+In practice, this would require large-scale nationalization of land and housing stock, the socialization of mortgages and rents, and the construction of publicly owned, permanently decommodified housing at a scale that dwarfs anything seen in the United States. Land-use decisions would be made collectively, not through homeowner veto power. Rent would reflect maintenance costs rather than market demand. Housing would be produced by public entities or worker cooperatives, not developers extracting profit. And the wealth accumulated through decades of speculative ownership would need to be redistributed, likely through taxation or direct expropriation.
+
+Back to the bitter reality: the majority in the United States still need convincing that housing is a human right. None of these ideas are anywhere near mainstream political reality just yet. It will take some time to warm the masses up to the heavily stigmatized concepts of socialism and Marxism. Even longer to convince those benefiting from this system to relinquish their financial investments for egalitarian benefit.
+
+But articulating them clarifies the distinction: Marxism offers a diagnosis of the underlying structure; reformism offers tools to alleviate the pain without dismantling the structure itself. Understanding the former helps us see the limits of the latter — and the depth of the crisis we are trying to navigate.
+
 ## What This Means for People My Age
 
-TODO: WRITE A PERSONAL OUTRO
+For my generation, no crisis shapes our future more than housing. We plan our careers around rent, our relationships around commutes, and our identities around the shrinking set of places we can afford to exist. For many young people, the realm of possibility is narrowing, and with it, the belief that adulthood will offer autonomy, that hard work will be rewarded, or that we’ll ever own the homes we were raised to aspire to.
+
+We all navigate constraints — physics, biology, money, time. Fewer options aren’t inherently bad; limits can force creativity. When housing becomes scarce, we adapt. Some people pick up extra work or push themselves into higher-paying jobs. Others move back in with their parents after college to save, or leave their hometowns entirely for markets where a stable life feels possible. I’ve watched every one of these strategies play out in the lives of people I care about.
+
+But the tragedy is in the necessity of those choices. It’s the friends who leave not because they want to explore, but because staying became impossible. It’s children scattering away from their parents and support networks just to meet a basic need. It’s young couples who would love to have kids, but can’t reconcile parenthood with the cost of keeping a roof over their heads or providing a quality home for their prospective children. When a society makes housing so scarce that life decisions become forced rather than chosen, the loss is substantial — the erosion of family, community, and the futures we imagined for ourselves.
+
+On a pragmatic level, we have to adapt in order to force change bit by bit. Getting involved politically and backing politicians running on good housing policy is a start. Making conscious trade-offs is also an important consideration. We might have to choose to rent in places that feel alive rather than buy in places that feel dead. We prioritize walkability, community, culture, friendship — use-value over exchange-value — even if it means never owning a home at all. In choosing this, we quietly reject the idea that wealth must be built through exclusion. Political organizing becomes easier when young people concentrate in these places instead of dispersing in quiet defeat.
+
+But no amount of personal adaptation can heal a structural wound. It’s time to stop accepting this reality as inevitable. These outcomes are not accidents of nature; they are the predictable result of decades of deliberate policy choices and the rotten capitalist framework that shaped them. If we want to reject the premise that housing is a commodity, we have to begin by relinquishing our own attachment to property as a vehicle for personal wealth. As long as our vision of stability is tied to capital accumulation through land, we remain bound to the very system that produces the crisis we lament. We cannot treat market capitalism as the end-all-be-all force governing a resource so scarce, so precious, and so fundamental to human life.
+
+California's crisis poses a simple but profound question: will we continue to organize society around protecting the wealth of those who bought early, or will we decide that stability and a roof over one's head are things every human being deserves?
+
+The answer will define the livability of this state for decades — and determine whether the future is something we inherit or something we’re shut out of.

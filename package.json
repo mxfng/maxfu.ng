@@ -14,6 +14,8 @@
 		"format": "bunx prettier . --write",
 		"lint": "bun x eslint .",
 		"lint:fix": "bun x eslint . --fix",
+		"lint:md": "markdownlint-cli2 \"**/*.md\" \"!node_modules\"",
+		"lint:md:fix": "markdownlint-cli2 --fix \"**/*.md\" \"!node_modules\"",
 		"prepare": "husky install",
 		"deploy:worker": "astro build && bunx wrangler deploy",
 		"pre-commit": "bun run tsc:check && bun run lint && bun run format"
@@ -23,7 +25,11 @@
 			"eslint --fix",
 			"prettier --write"
 		],
-		"*.{json,md,css}": [
+		"*.md": [
+			"markdownlint-cli2 --fix",
+			"prettier --write"
+		],
+		"*.{json,css}": [
 			"prettier --write"
 		]
 	},
@@ -56,6 +62,7 @@
 		"eslint-plugin-prettier": "^5.4.1",
 		"globals": "^16.2.0",
 		"husky": "^8.0.3",
+		"markdownlint-cli2": "^0.19.0",
 		"prettier": "^3.5.3",
 		"prettier-plugin-astro": "^0.14.1",
 		"prettier-plugin-tailwindcss": "^0.6.12",

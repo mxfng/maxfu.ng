@@ -1,5 +1,6 @@
 ---
 import "@/styles/global.css";
+import { ClientRouter } from "astro:transitions";
 import SEO from "@/components/seo.astro";
 
 interface Props {
@@ -11,8 +12,9 @@ const { title, description } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" style="view-transition-name:root">
 	<SEO title={title} description={description} url={Astro.url?.href} />
+	<ClientRouter />
 	<body class="flex min-h-dvh items-center justify-center font-sans">
 		<main class="w-full max-w-md px-6">
 			<slot />

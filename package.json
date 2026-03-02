@@ -5,20 +5,13 @@
 	"scripts": {
 		"dev": "astro dev",
 		"build": "astro build",
-		"preview": "astro preview",
-		"astro": "astro",
-		"tsc": "tsc",
-		"tsc:check": "tsc --noEmit",
-		"optimize:images": "bun scripts/optimize-images.mjs",
-		"optimize:videos": "bun scripts/optimize-videos.mjs",
+		"tsc": "tsc --noEmit",
 		"format": "bunx prettier . --write",
 		"lint": "bun x eslint .",
 		"lint:fix": "bun x eslint . --fix",
-		"lint:md": "markdownlint-cli2 \"**/*.md\" \"!node_modules\"",
-		"lint:md:fix": "markdownlint-cli2 --fix \"**/*.md\" \"!node_modules\"",
 		"prepare": "husky install",
-		"deploy:worker": "astro build && bunx wrangler deploy",
-		"pre-commit": "bun run tsc:check && bun run lint && bun run format"
+		"deploy": "astro build && bunx wrangler deploy",
+		"pre-commit": "bun run tsc && bun run lint && bun run format"
 	},
 	"lint-staged": {
 		"*.{js,jsx,ts,tsx,astro}": [

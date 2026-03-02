@@ -1,5 +1,6 @@
 ---
 import "@/styles/global.css";
+import { ClientRouter } from "astro:transitions";
 import MinimalHeader from "@/components/nav/minimal-header.astro";
 import MinimalFooter from "@/components/minimal-footer.astro";
 import SEO from "@/components/seo.astro";
@@ -13,8 +14,9 @@ const { title, description } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" style="view-transition-name:root">
 	<SEO title={title} description={description} url={Astro.url?.href} />
+	<ClientRouter />
 	<body class="flex min-h-dvh flex-col font-sans">
 		<MinimalHeader />
 		<main class="mt-24 flex flex-1 flex-col px-6 md:mt-32 md:px-8">

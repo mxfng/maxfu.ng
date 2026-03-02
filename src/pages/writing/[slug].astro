@@ -21,7 +21,10 @@ const { Content } = await writing.render();
 
 <Layout title={writing.data.title}>
 	<div class="w-full space-y-12">
-		<section class="space-y-6 border-b pb-8 md:pb-12">
+		<section
+			class="animate-fade-in-up space-y-6 border-b pb-8 opacity-0 md:pb-12"
+			style="animation-delay: 0s;"
+		>
 			<header class="mx-auto flex max-w-screen-sm flex-col items-start gap-3">
 				<time datetime={writing.data.date.toISOString()} class="text-muted-foreground text-sm">
 					{
@@ -37,7 +40,10 @@ const { Content } = await writing.render();
 				</h1>
 			</header>
 		</section>
-		<section class="space-y-8 border-b pb-8 md:pb-12">
+		<section
+			class="animate-fade-in-up space-y-8 border-b pb-8 opacity-0 md:pb-12"
+			style="animation-delay: 0.05s;"
+		>
 			<article class="mx-auto w-full max-w-screen-lg">
 				<div class="prose">
 					<Content />
@@ -46,7 +52,7 @@ const { Content } = await writing.render();
 		</section>
 		{
 			(prevEntry || nextEntry) && (
-				<section class="pb-8 md:pb-12">
+				<section class="animate-fade-in pb-8 opacity-0 md:pb-12" style="animation-delay: 0.1s;">
 					<PrevNext
 						prev={
 							prevEntry

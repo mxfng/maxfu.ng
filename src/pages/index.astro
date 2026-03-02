@@ -1,51 +1,46 @@
 ---
 import HubLayout from "@/layouts/hub-layout.astro";
-import HankoSeal from "@/components/hanko-seal.astro";
+import JanZoeng from "@/components/jan-zoeng.astro";
+
+const links = [
+	{ label: "Drumhaus", href: "https://drumhaus.fung.studio/", external: true },
+	{ label: "Writing", href: "/writing", external: false },
+	{ label: "Music", href: "/music", external: false },
+	{ label: "About", href: "/about", external: false },
+];
 ---
 
 <HubLayout>
 	<div class="space-y-12">
-		<h1 class="text-4xl font-medium tracking-tight md:text-5xl">Max Fung</h1>
+		<h1
+			class="animate-fade-in-up text-4xl font-medium tracking-tight opacity-0 md:text-5xl"
+			style="animation-delay: 0s;"
+		>
+			Max Fung
+		</h1>
 		<nav>
 			<ul class="space-y-4">
-				<li>
-					<a
-						href="https://drumhaus.fung.studio/"
-						target="_blank"
-						rel="noopener noreferrer"
-						class="text-muted-foreground hover:text-accent text-lg transition-colors"
-					>
-						Drumhaus
-					</a>
-				</li>
-				<li>
-					<a
-						href="/writing"
-						class="text-muted-foreground hover:text-accent text-lg transition-colors"
-					>
-						Writing
-					</a>
-				</li>
-				<li>
-					<a
-						href="/music"
-						class="text-muted-foreground hover:text-accent text-lg transition-colors"
-					>
-						Music
-					</a>
-				</li>
-				<li>
-					<a
-						href="/about"
-						class="text-muted-foreground hover:text-accent text-lg transition-colors"
-					>
-						About
-					</a>
-				</li>
+				{
+					links.map((link, i) => (
+						<li class="animate-fade-in-up opacity-0" style={`animation-delay: ${(i + 1) * 0.05}s;`}>
+							<a
+								href={link.href}
+								target={link.external ? "_blank" : undefined}
+								rel={link.external ? "noopener noreferrer" : undefined}
+								class="text-muted-foreground hover:text-accent text-lg transition-colors"
+							>
+								{link.label}
+							</a>
+						</li>
+					))
+				}
 			</ul>
 		</nav>
-		<div class="pt-4">
-			<HankoSeal />
+		<div
+			class="animate-fade-in-up pt-4 opacity-0"
+			style={`animation-delay: ${(links.length + 1) * 0.05}s;`}
+		>
+			<JanZoeng />
 		</div>
 	</div>
 </HubLayout>

@@ -1,14 +1,14 @@
 ---
 interface Props {
-	title?: string;
-	description?: string;
-	url?: string;
+  title?: string;
+  description?: string;
+  url?: string;
 }
 
 const {
-	title,
-	description = "Musician, developer, and designer living in Los Angeles.",
-	url = "https://fung.studio",
+  title,
+  description = "Musician, developer, and designer living in Los Angeles.",
+  url = "https://fung.studio",
 } = Astro.props;
 
 const DEFAULT_TITLE = "Max Fung";
@@ -34,33 +34,36 @@ const pageTitle = title ? `${title} - Max Fung` : DEFAULT_TITLE;
 <link rel="icon" href="/favicon.png" type="image/png" sizes="48x48" />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <meta
-	name="keywords"
-	content="Max Fung, software engineer, music producer, web developer, designer, frontend, Los Angeles, musician"
+  name="keywords"
+  content="Max Fung, software engineer, music producer, web developer, designer, frontend, Los Angeles, musician"
 />
 
 <script type="application/ld+json">
-	{
-		"@context": "https://schema.org",
-		"@type": "Person",
-		"name": "Max Fung",
-		"url": "https://fung.studio",
-		"sameAs": ["https://github.com/mxfng", "https://www.linkedin.com/in/maxfung/"],
-		"jobTitle": "Software Engineer, Musician, Designer",
-		"address": {
-			"@type": "PostalAddress",
-			"addressLocality": "Los Angeles",
-			"addressRegion": "CA",
-			"addressCountry": "US"
-		}
-	}
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Max Fung",
+    "url": "https://fung.studio",
+    "sameAs": [
+      "https://github.com/mxfng",
+      "https://www.linkedin.com/in/maxfung/"
+    ],
+    "jobTitle": "Software Engineer, Musician, Designer",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Los Angeles",
+      "addressRegion": "CA",
+      "addressCountry": "US"
+    }
+  }
 </script>
 
 <link
-	rel="preload"
-	href="/fonts/switzer/Switzer-Variable.woff2"
-	as="font"
-	type="font/woff2"
-	crossorigin="anonymous"
+  rel="preload"
+  href="/fonts/switzer/Switzer-Variable.woff2"
+  as="font"
+  type="font/woff2"
+  crossorigin="anonymous"
 />
 
 <title>{pageTitle}</title>

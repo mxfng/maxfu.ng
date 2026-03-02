@@ -1,7 +1,7 @@
 .hide-scrollbar {
-	@apply [-ms-overflow-style:none] [scrollbar-width:none];
+  @apply [-ms-overflow-style:none] [scrollbar-width:none];
 }
 
 .hide-scrollbar::-webkit-scrollbar {
-	@apply hidden;
+  @apply hidden;
 }

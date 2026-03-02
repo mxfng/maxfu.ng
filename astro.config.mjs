@@ -5,9 +5,9 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-	vite: {
-		plugins: [tailwindcss()],
-	},
-	site: "https://fung.studio/",
-	integrations: [sitemap()],
+  vite: {
+    plugins: [tailwindcss()],
+  },
+  site: "https://fung.studio/",
+  integrations: [sitemap()],
 });

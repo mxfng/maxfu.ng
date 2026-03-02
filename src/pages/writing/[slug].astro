@@ -5,14 +5,14 @@ import { getWritings } from "@/lib/get-collection";
 import { getPrevNext } from "@/lib/get-prev-next";
 
 export async function getStaticPaths() {
-	const writings = await getWritings();
-	return writings.map((writing) => {
-		const { prevEntry, nextEntry } = getPrevNext(writings, writing.slug);
-		return {
-			params: { slug: writing.slug },
-			props: { writing, prevEntry, nextEntry },
-		};
-	});
+  const writings = await getWritings();
+  return writings.map((writing) => {
+    const { prevEntry, nextEntry } = getPrevNext(writings, writing.slug);
+    return {
+      params: { slug: writing.slug },
+      props: { writing, prevEntry, nextEntry },
+    };
+  });
 }
 
 const { writing, prevEntry, nextEntry } = Astro.props;
@@ -20,59 +20,65 @@ const { Content } = await writing.render();
 ---
 
 <Layout title={writing.data.title}>
-	<div class="w-full space-y-12">
-		<section
-			class="animate-fade-in-up space-y-6 border-b pb-8 opacity-0 md:pb-12"
-			style="animation-delay: 0s;"
-		>
-			<header class="mx-auto flex max-w-screen-sm flex-col items-start gap-3">
-				<time datetime={writing.data.date.toISOString()} class="text-muted-foreground text-sm">
-					{
-						writing.data.date.toLocaleDateString("en-US", {
-							year: "numeric",
-							month: "long",
-							day: "numeric",
-						})
-					}
-				</time>
-				<h1 class="text-4xl font-medium md:text-5xl">
-					{writing.data.title}
-				</h1>
-			</header>
-		</section>
-		<section
-			class="animate-fade-in-up space-y-8 border-b pb-8 opacity-0 md:pb-12"
-			style="animation-delay: 0.05s;"
-		>
-			<article class="mx-auto w-full max-w-screen-lg">
-				<div class="prose">
-					<Content />
-				</div>
-			</article>
-		</section>
-		{
-			(prevEntry || nextEntry) && (
-				<section class="animate-fade-in pb-8 opacity-0 md:pb-12" style="animation-delay: 0.1s;">
-					<PrevNext
-						prev={
-							prevEntry
-								? {
-										label: prevEntry.title,
-										href: `/writing/${prevEntry.slug}`,
-									}
-								: undefined
-						}
-						next={
-							nextEntry
-								? {
-										label: nextEntry.title,
-										href: `/writing/${nextEntry.slug}`,
-									}
-								: undefined
-						}
-					/>
-				</section>
-			)
-		}
-	</div>
+  <div class="w-full space-y-12">
+    <section
+      class="animate-fade-in-up space-y-6 border-b pb-8 opacity-0 md:pb-12"
+      style="animation-delay: 0s;"
+    >
+      <header class="mx-auto flex max-w-screen-sm flex-col items-start gap-3">
+        <time
+          datetime={writing.data.date.toISOString()}
+          class="text-muted-foreground text-sm"
+        >
+          {
+            writing.data.date.toLocaleDateString("en-US", {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+            })
+          }
+        </time>
+        <h1 class="text-4xl font-medium md:text-5xl">
+          {writing.data.title}
+        </h1>
+      </header>
+    </section>
+    <section
+      class="animate-fade-in-up space-y-8 border-b pb-8 opacity-0 md:pb-12"
+      style="animation-delay: 0.05s;"
+    >
+      <article class="mx-auto w-full max-w-screen-lg">
+        <div class="prose">
+          <Content />
+        </div>
+      </article>
+    </section>
+    {
+      (prevEntry || nextEntry) && (
+        <section
+          class="animate-fade-in pb-8 opacity-0 md:pb-12"
+          style="animation-delay: 0.1s;"
+        >
+          <PrevNext
+            prev={
+              prevEntry
+                ? {
+                    label: prevEntry.title,
+                    href: `/writing/${prevEntry.slug}`,
+                  }
+                : undefined
+            }
+            next={
+              nextEntry
+                ? {
+                    label: nextEntry.title,
+                    href: `/writing/${nextEntry.slug}`,
+                  }
+                : undefined
+            }
+          />
+        </section>
+      )
+    }
+  </div>
 </Layout>

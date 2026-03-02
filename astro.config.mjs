@@ -1,7 +1,5 @@
 // @ts-check
 import { defineConfig } from "astro/config";
-import { fileURLToPath } from "node:url";
-import path from "node:path";
 import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
 
@@ -9,12 +7,6 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
 	vite: {
 		plugins: [tailwindcss()],
-
-		resolve: {
-			alias: {
-				"@": path.resolve(path.dirname(fileURLToPath(import.meta.url)), "./src"),
-			},
-		},
 	},
 	site: "https://fung.studio/",
 	integrations: [sitemap()],

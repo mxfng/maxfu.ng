@@ -3,10 +3,6 @@ import globals from "globals";
 import js from "@eslint/js";
 import tseslint from "typescript-eslint";
 import astro from "eslint-plugin-astro";
-import prettier from "eslint-plugin-prettier";
-
-const tsParser = tseslint.parser;
-const astroParser = astro.parser;
 
 export default defineConfig([
 	{
@@ -20,27 +16,16 @@ export default defineConfig([
 
 	js.configs.recommended,
 	tseslint.configs.recommended,
-	{
-		plugins: {
-			prettier: prettier,
-		},
-		rules: {
-			"prettier/prettier": "off",
-		},
-	},
-
 	astro.configs.recommended,
-	astro.configs["jsx-a11y-recommended"],
 	{
 		files: ["**/*.astro"],
 		languageOptions: {
-			parser: astroParser,
+			parser: astro.parser,
 			parserOptions: {
-				parser: tsParser,
+				parser: tseslint.parser,
 				extraFileExtensions: [".astro"],
 				sourceType: "module",
 				ecmaVersion: "latest",
-				project: "./tsconfig.json",
 			},
 		},
 		rules: {
@@ -50,6 +35,6 @@ export default defineConfig([
 	},
 
 	{
-		ignores: ["dist/**", "**/*.d.ts", ".github/"],
+		ignores: ["dist/**", "**/*.d.ts"],
 	},
 ]);

@@ -1,6 +1,5 @@
 ---
 title: "Harmony: Exploring Logo Design"
-categories: ["design", "art", "coding"]
 date: "2025-06-01T01:52:00-07:00"
 ---
 

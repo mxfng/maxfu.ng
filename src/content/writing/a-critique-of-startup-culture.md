@@ -1,6 +1,5 @@
 ---
 title: "A Critique of Startup Culture"
-categories: ["technology"]
 date: "2025-05-28T18:48:00-07:00"
 ---
 

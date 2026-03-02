@@ -1,6 +1,5 @@
 ---
 title: "Venice Boulevard Radicalized Me"
-categories: ["urbanism"]
 date: "2025-07-01T19:25:00-07:00"
 ---
 

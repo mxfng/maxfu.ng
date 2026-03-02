@@ -1,6 +1,5 @@
 ---
 title: "Momentum"
-categories: ["philosophy"]
 date: "2025-11-03T19:00:00-07:00"
 ---
 

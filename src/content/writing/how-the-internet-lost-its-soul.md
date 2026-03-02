@@ -1,6 +1,5 @@
 ---
 title: "How the Internet Lost its Soul"
-categories: ["technology"]
 date: "2025-06-07T11:32:00-07:00"
 ---
 

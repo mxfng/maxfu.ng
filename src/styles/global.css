@@ -1,57 +1,26 @@
 @import "tailwindcss";
-@import "tw-animate-css";
 @import "./fonts.css";
 @import "./typography.css";
 @import "./scroll.css";
 
 @theme inline {
-	--radius-sm: calc(var(--radius) - 4px);
-	--radius-md: calc(var(--radius) - 2px);
-	--radius-lg: var(--radius);
-	--radius-xl: calc(var(--radius) + 4px);
 	--color-background: var(--background);
 	--color-foreground: var(--foreground);
 	--color-primary: var(--primary);
-	--color-primary-foreground: var(--primary-foreground);
-	--color-secondary: var(--secondary);
-	--color-secondary-foreground: var(--secondary-foreground);
 	--color-muted: var(--muted);
 	--color-muted-foreground: var(--muted-foreground);
 	--color-accent: var(--accent);
-	--color-accent-foreground: var(--accent-foreground);
 	--color-border: var(--border);
-	--color-ring: var(--ring);
 }
 
 :root {
-	--radius: 0.65rem;
-	--background: oklch(0.98 0.002 85);
-	--foreground: oklch(0.25 0.005 85);
-	--primary: oklch(0.543 0.0945 304.99);
-	--primary-foreground: oklch(0.98 0.016 73.684);
-	--secondary: oklch(0.95 0.002 85);
-	--secondary-foreground: oklch(0.25 0.006 85);
-	--muted: oklch(0.95 0.002 85);
-	--muted-foreground: oklch(0.55 0.016 85);
-	--accent: oklch(0.95 0.002 85);
-	--accent-foreground: oklch(0.25 0.006 85);
-	--border: oklch(0.9 0.004 85);
-	--ring: oklch(0.65 0.15 47.604);
-}
-
-.dark {
-	--background: oklch(0.2 0.002 85);
-	--foreground: oklch(0.99 0 0);
-	--primary: oklch(0.543 0.0945 304.99);
-	--primary-foreground: oklch(0.98 0.016 73.684);
-	--secondary: oklch(0.25 0 0);
-	--secondary-foreground: oklch(0.985 0 0);
-	--muted: oklch(0.25 0 0);
-	--muted-foreground: oklch(0.7 0 0);
-	--accent: oklch(0.25 0 0);
-	--accent-foreground: oklch(0.985 0 0);
-	--border: oklch(1 0 0 / 12%);
-	--ring: oklch(0.6 0 0);
+	--background: #0a0a0a;
+	--foreground: #e5e5e5;
+	--muted: #1a1a1a;
+	--muted-foreground: #737373;
+	--accent: #c23b22;
+	--primary: #c23b22;
+	--border: #1f1f1f;
 }
 
 @theme {
@@ -61,7 +30,7 @@
 
 @layer base {
 	* {
-		@apply border-border outline-ring/50;
+		@apply border-border;
 	}
 
 	html {
@@ -102,7 +71,7 @@
 	}
 
 	p a {
-		@apply text-foreground hover:text-muted-foreground decoration-muted-foreground hover:decoration-foreground underline underline-offset-2 transition-all hover:decoration-2;
+		@apply text-foreground hover:text-accent underline underline-offset-2 transition-colors;
 	}
 
 	blockquote {
@@ -130,7 +99,7 @@
 	}
 
 	hr {
-		@apply border-muted my-8 border-t;
+		@apply border-border my-8 border-t;
 	}
 
 	strong {
@@ -138,26 +107,6 @@
 	}
 
 	.link-subtle {
-		@apply text-muted-foreground hover:text-foreground/80 transition-colors duration-200;
-	}
-
-	.link-subtle-foreground {
-		@apply text-foreground hover:text-foreground/80 transition-colors duration-200;
-	}
-
-	.font-accent {
-		@apply font-light;
-	}
-
-	.font-manifesto {
-		@apply text-center font-light md:text-lg;
-	}
-
-	.text-mega {
-		@apply text-2xl leading-snug font-medium tracking-tight md:text-4xl xl:text-5xl;
-	}
-
-	.text-ultra {
-		@apply text-3xl leading-snug font-medium tracking-tight sm:text-4xl md:text-6xl xl:text-7xl;
+		@apply text-muted-foreground hover:text-foreground transition-colors duration-200;
 	}
 }

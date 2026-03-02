@@ -1,0 +1,80 @@
+---
+import Layout from "@/layouts/layout.astro";
+import { URLS } from "@/content/urls";
+---
+
+<Layout title="Music">
+	<div class="w-full space-y-16">
+		<h1>Music</h1>
+		<section class="space-y-4">
+			<h2 class="text-lg font-medium">Max Fung</h2>
+			<ul class="space-y-2">
+				<li>
+					<a
+						href={URLS.SPOTIFY_MAX_FUNG.url}
+						target="_blank"
+						rel="noopener noreferrer"
+						class="text-muted-foreground hover:text-accent transition-colors"
+					>
+						Spotify
+					</a>
+				</li>
+				<li>
+					<a
+						href={URLS.APPLE_MUSIC_MAX_FUNG.url}
+						target="_blank"
+						rel="noopener noreferrer"
+						class="text-muted-foreground hover:text-accent transition-colors"
+					>
+						Apple Music
+					</a>
+				</li>
+				<li>
+					<a
+						href={URLS.YOUTUBE_MUSIC_MAX_FUNG.url}
+						target="_blank"
+						rel="noopener noreferrer"
+						class="text-muted-foreground hover:text-accent transition-colors"
+					>
+						YouTube Music
+					</a>
+				</li>
+			</ul>
+		</section>
+		<section class="space-y-4">
+			<h2 class="text-lg font-medium">Toko Makai</h2>
+			<ul class="space-y-2">
+				<li>
+					<a
+						href={URLS.SPOTIFY_TOKO_MAKAI.url}
+						target="_blank"
+						rel="noopener noreferrer"
+						class="text-muted-foreground hover:text-accent transition-colors"
+					>
+						Spotify
+					</a>
+				</li>
+				<li>
+					<a
+						href={URLS.APPLE_MUSIC_TOKO_MAKAI.url}
+						target="_blank"
+						rel="noopener noreferrer"
+						class="text-muted-foreground hover:text-accent transition-colors"
+					>
+						Apple Music
+					</a>
+				</li>
+				<li>
+					<a
+						href={URLS.YOUTUBE_MUSIC_TOKO_MAKAI.url}
+						target="_blank"
+						rel="noopener noreferrer"
+						class="text-muted-foreground hover:text-accent transition-colors"
+					>
+						YouTube Music
+					</a>
+				</li>
+			</ul>
+		</section>
+	</div>
+</Layout>

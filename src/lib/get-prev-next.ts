@@ -1,9 +1,6 @@
 import type { CollectionEntry } from "astro:content";
 
-function getPrevNext<T extends "writing" | "works">(
-	entries: CollectionEntry<T>[],
-	currentSlug: string,
-) {
+function getPrevNext(entries: CollectionEntry<"writing">[], currentSlug: string) {
 	const currentIndex = entries.findIndex((entry) => entry.slug === currentSlug);
 
 	const prevEntry = entries[currentIndex - 1];

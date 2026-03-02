@@ -1,7 +1,5 @@
 ---
 import "@/styles/global.css";
-import MinimalHeader from "@/components/nav/minimal-header.astro";
-import MinimalFooter from "@/components/minimal-footer.astro";
 import SEO from "@/components/seo.astro";
 
 interface Props {
@@ -15,11 +13,9 @@ const { title, description } = Astro.props;
 <!doctype html>
 <html lang="en">
 	<SEO title={title} description={description} url={Astro.url?.href} />
-	<body class="flex min-h-dvh flex-col font-sans">
-		<MinimalHeader />
-		<main class="mt-24 flex flex-1 flex-col px-6 md:mt-32 md:px-8">
+	<body class="flex min-h-dvh items-center justify-center font-sans">
+		<main class="w-full max-w-md px-6">
 			<slot />
 		</main>
-		<MinimalFooter />
 	</body>
 </html>

@@ -1,11 +1,8 @@
 ---
 import Layout from "@/layouts/layout.astro";
 import PrevNext from "@/components/ui/prev-next.astro";
-import WritingSummary from "@/components/writing/writing-summary.astro";
-import WritingFooter from "@/components/writing/writing-footer.astro";
 import { getWritings } from "@/lib/get-collection";
 import { getPrevNext } from "@/lib/get-prev-next";
-import Wrapper from "@/components/ui/wrapper.astro";
 
 export async function getStaticPaths() {
 	const writings = await getWritings();
@@ -23,10 +20,18 @@ const { Content } = await writing.render();
 ---
 
 <Layout title={writing.data.title}>
-	<main class="w-full space-y-12">
+	<div class="w-full space-y-12">
 		<section class="space-y-6 border-b pb-8 md:pb-12">
-			<header class="mx-auto flex max-w-screen-sm flex-col items-center gap-6 text-center">
-				<WritingSummary date={writing.data.date} categories={writing.data.categories} />
+			<header class="mx-auto flex max-w-screen-sm flex-col items-start gap-3">
+				<time datetime={writing.data.date.toISOString()} class="text-muted-foreground text-sm">
+					{
+						writing.data.date.toLocaleDateString("en-US", {
+							year: "numeric",
+							month: "long",
+							day: "numeric",
+						})
+					}
+				</time>
 				<h1 class="text-4xl font-medium md:text-5xl">
 					{writing.data.title}
 				</h1>
@@ -39,16 +44,9 @@ const { Content } = await writing.render();
 				</div>
 			</article>
 		</section>
-		<section class="space-y-8 border-b pb-8 md:pb-12">
-			<Wrapper>
-				<div class="mx-auto max-w-screen-sm">
-					<WritingFooter />
-				</div>
-			</Wrapper>
-		</section>
 		{
 			(prevEntry || nextEntry) && (
-				<section class="space-y-8 pb-8 md:pb-12">
+				<section class="pb-8 md:pb-12">
 					<PrevNext
 						prev={
 							prevEntry
@@ -70,5 +68,5 @@ const { Content } = await writing.render();
 				</section>
 			)
 		}
-	</main>
+	</div>
 </Layout>

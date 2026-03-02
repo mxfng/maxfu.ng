@@ -1,61 +1,51 @@
 ---
-import WorksGrid from "@/components/works/works-grid.astro";
-import { getWorks, getWritings } from "@/lib/get-collection";
-import { formatCollection } from "@/lib/format-collection";
-import Layout from "@/layouts/layout.astro";
-import Landing from "@/components/landing.astro";
-
-import Wrapper from "@/components/ui/wrapper.astro";
-import Section from "@/components/ui/section.astro";
-import Manifesto from "../components/manifesto.astro";
-import Button from "@/components/ui/button.astro";
-import WritingTable from "@/components/writing/writing-table.astro";
-
-const works = await getWorks();
-const formattedWorks = formatCollection<"works">(works, {
-	sortBy: "date",
-	sortOrder: "desc",
-	maxItems: 8,
-});
-
-const latestWorks = formattedWorks;
-
-const writings = await getWritings();
-const latestWritings = formatCollection<"writing">(writings, {
-	sortBy: "date",
-	sortOrder: "desc",
-	maxItems: 8,
-});
+import HubLayout from "@/layouts/hub-layout.astro";
+import HankoSeal from "@/components/hanko-seal.astro";
 ---
 
-<Layout>
-	<Landing />
-	<div class="w-full space-y-12">
-		<section class="space-y-10 border-b pb-12 md:pb-16">
-			<WorksGrid works={latestWorks} />
-			<div class="mx-auto w-fit">
-				<a href="/works">
-					<Button size="lg"> View all </Button>
-				</a>
-			</div>
-		</section>
-		<section class="space-y-10 border-b pb-12 md:pb-16">
-			<div class="flex flex-row items-baseline justify-between">
-				<h2 class="mb-8 text-2xl">Latest writing</h2>
-			</div>
-			<WritingTable writings={latestWritings} />
-			<div class="mx-auto w-fit">
-				<a href="/writing">
-					<Button size="lg"> View all </Button>
-				</a>
-			</div>
-		</section>
-		<section class="mx-auto space-y-10 pb-12 md:pb-16">
-			<Wrapper class="py-12">
-				<Section label="Manifesto" align="center" size="lg">
-					<Manifesto />
-				</Section>
-			</Wrapper>
-		</section>
+<HubLayout>
+	<div class="space-y-12">
+		<h1 class="text-4xl font-medium tracking-tight md:text-5xl">Max Fung</h1>
+		<nav>
+			<ul class="space-y-4">
+				<li>
+					<a
+						href="https://drumhaus.fung.studio/"
+						target="_blank"
+						rel="noopener noreferrer"
+						class="text-muted-foreground hover:text-accent text-lg transition-colors"
+					>
+						Drumhaus
+					</a>
+				</li>
+				<li>
+					<a
+						href="/writing"
+						class="text-muted-foreground hover:text-accent text-lg transition-colors"
+					>
+						Writing
+					</a>
+				</li>
+				<li>
+					<a
+						href="/music"
+						class="text-muted-foreground hover:text-accent text-lg transition-colors"
+					>
+						Music
+					</a>
+				</li>
+				<li>
+					<a
+						href="/about"
+						class="text-muted-foreground hover:text-accent text-lg transition-colors"
+					>
+						About
+					</a>
+				</li>
+			</ul>
+		</nav>
+		<div class="pt-4">
+			<HankoSeal />
+		</div>
 	</div>
-</Layout>
+</HubLayout>

@@ -1,34 +1,29 @@
-import type { WritingCategory, WorksCategory } from "@/content/categories";
+import type { WritingCategory } from "@/content/categories";
 import type { CollectionEntry } from "astro:content";
 
-type FormatOptions<T extends "writing" | "works"> = {
-	category?: T extends "writing" ? WritingCategory : WorksCategory;
+type FormatOptions = {
+	category?: WritingCategory;
 	sortBy?: "date" | "title";
 	sortOrder?: "asc" | "desc";
 	filterOutFuture?: boolean;
 	maxItems?: number;
 };
 
-function formatCollection<T extends "writing" | "works">(
-	entries: CollectionEntry<T>[],
-	options: FormatOptions<T> = {},
-): CollectionEntry<T>[] {
+function formatCollection(
+	entries: CollectionEntry<"writing">[],
+	options: FormatOptions = {},
+): CollectionEntry<"writing">[] {
 	const { category, sortBy, sortOrder = "desc", filterOutFuture = true, maxItems } = options;
 
-	type CategoryType = T extends "writing" ? WritingCategory : WorksCategory;
-
-	let result = [...entries]; // make a copy of the entries
+	let result = [...entries];
 
 	if (category || filterOutFuture) {
 		const now = Date.now();
-		result = result.reduce<CollectionEntry<T>[]>((acc, entry) => {
+		result = result.reduce<CollectionEntry<"writing">[]>((acc, entry) => {
 			const { date, categories } = entry.data;
 
-			// Filter out future-dated entries
 			if (filterOutFuture && new Date(date).getTime() > now) return acc;
-
-			// Filter out entries that don't match the category
-			if (category && !(categories as CategoryType[]).includes(category)) return acc;
+			if (category && !categories.includes(category)) return acc;
 
 			acc.push(entry);
 			return acc;
@@ -53,7 +48,6 @@ function formatCollection<T extends "writing" | "works">(
 		});
 	}
 
-	// Apply maxItems limit if specified
 	if (maxItems !== undefined && maxItems > 0) {
 		result = result.slice(0, maxItems);
 	}

@@ -1,6 +1,4 @@
 ---
-import ActionButtonArrow from "./action-button-arrow.astro";
-
 interface Props {
 	prev?: {
 		label: string;
@@ -18,14 +16,13 @@ const { prev, next } = Astro.props;
 <nav class="grid w-full grid-cols-1 gap-4 md:grid-cols-2">
 	{
 		prev ? (
-			<a
-				href={prev.href}
-				class="group hover:bg-muted/50 flex items-center gap-4 rounded-lg border p-4 transition-colors md:border-none"
-			>
-				<ActionButtonArrow direction="left" />
+			<a href={prev.href} class="group flex items-center gap-3 py-3 transition-colors">
+				<span class="text-muted-foreground group-hover:text-accent transition-colors">&larr;</span>
 				<div class="flex flex-col">
 					<span class="text-muted-foreground text-sm">Previous</span>
-					<span class="line-clamp-1 text-base font-medium">{prev.label}</span>
+					<span class="group-hover:text-accent line-clamp-1 text-base font-medium transition-colors">
+						{prev.label}
+					</span>
 				</div>
 			</a>
 		) : (
@@ -37,13 +34,15 @@ const { prev, next } = Astro.props;
 		next ? (
 			<a
 				href={next.href}
-				class="group hover:bg-muted/50 flex items-center justify-end gap-4 rounded-lg border p-4 transition-colors md:col-start-2 md:border-none"
+				class="group flex items-center justify-end gap-3 py-3 transition-colors md:col-start-2"
 			>
 				<div class="flex flex-col items-end">
 					<span class="text-muted-foreground text-sm">Next</span>
-					<span class="line-clamp-1 text-base font-medium">{next.label}</span>
+					<span class="group-hover:text-accent line-clamp-1 text-base font-medium transition-colors">
+						{next.label}
+					</span>
 				</div>
-				<ActionButtonArrow />
+				<span class="text-muted-foreground group-hover:text-accent transition-colors">&rarr;</span>
 			</a>
 		) : (
 			<div class="hidden md:block" />

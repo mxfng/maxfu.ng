@@ -14,13 +14,13 @@
 }
 
 :root {
-  --background: #0a0a0a;
-  --foreground: #e5e5e5;
-  --muted: #1a1a1a;
-  --muted-foreground: #737373;
-  --accent: #c23b22;
-  --primary: #c23b22;
-  --border: #1f1f1f;
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.922 0 0);
+  --muted: oklch(0.205 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.5191 0.2099 26.16);
+  --primary: oklch(0.5191 0.2099 26.16);
+  --border: oklch(0.227 0 0);
 }
 
 @theme {

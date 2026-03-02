@@ -1,4 +1,6 @@
 ---
+import { ArrowLeft, ArrowRight } from "@lucide/astro";
+
 interface Props {
   prev?: {
     label: string;
@@ -20,8 +22,8 @@ const { prev, next } = Astro.props;
         href={prev.href}
         class="group flex items-center gap-3 py-3 transition-colors"
       >
-        <span class="text-muted-foreground group-hover:text-accent transition-colors">
-          &larr;
+        <span class="text-muted-foreground group-hover:text-accent transition-all group-hover:-translate-x-1">
+          <ArrowLeft />
         </span>
         <div class="flex flex-col">
           <span class="text-muted-foreground text-sm">Previous</span>
@@ -47,8 +49,8 @@ const { prev, next } = Astro.props;
             {next.label}
           </span>
         </div>
-        <span class="text-muted-foreground group-hover:text-accent transition-colors">
-          &rarr;
+        <span class="text-muted-foreground group-hover:text-accent transition-all group-hover:translate-x-1">
+          <ArrowRight />
         </span>
       </a>
     ) : (

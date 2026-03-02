@@ -107,8 +107,12 @@
     @apply text-base leading-relaxed;
   }
 
+  a {
+    @apply text-foreground hover:text-accent transition-colors;
+  }
+
   p a {
-    @apply text-foreground hover:text-accent underline underline-offset-2 transition-colors;
+    @apply underline underline-offset-2;
   }
 
   blockquote {

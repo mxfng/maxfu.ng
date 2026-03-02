@@ -1,47 +1,43 @@
 ---
 import HubLayout from "@/layouts/hub-layout.astro";
 import JanZoeng from "@/components/jan-zoeng.astro";
-
-const links = [
-  { label: "Drumhaus", href: "https://drumhaus.fung.studio/", external: true },
-  { label: "Writing", href: "/writing", external: false },
-  { label: "Music", href: "/music", external: false },
-  { label: "About", href: "/about", external: false },
-];
+import { EMAIL } from "@/content/email";
+import { URLS } from "@/content/urls";
 ---
 
 <HubLayout>
   <div class="space-y-12">
-    <div
-      class="animate-fade-in-up text-4xl font-medium tracking-tight opacity-0 md:text-5xl"
-      style="animation-delay: 0s;"
-    >
-      Max Fung
+    <section class="animate-fade-in-up opacity-0" style="animation-delay: 0s;">
+      <h2>Max Fung</h2>
+    </section>
+    <div class="space-y-8">
+      <p class="animate-fade-in-up opacity-0" style="animation-delay: 0.05s;">
+        Building for the web, making <a href="/music">music</a>, and <a
+          href="/writing">writing</a
+        >
+        about the things I care about. Based in Los Angeles. Creator of <a
+          href="https://drumhaus.fung.studio/"
+          target="_blank"
+          rel="noopener noreferrer">Drumhaus</a
+        >, a drum machine for the browser.
+      </p>
+      <p class="animate-fade-in-up opacity-0" style="animation-delay: 0.1s;">
+        I've been an engineer at places like Boeing, Flexe, and Dirac. Currently
+        consulting through my own studio. If you need help building something, <a
+          href={`mailto:${EMAIL}`}>reach out</a
+        >.
+      </p>
+      <p class="animate-fade-in-up opacity-0" style="animation-delay: 0.15s;">
+        You can read my <a href="/writing">writing</a> or <a
+          href={URLS.GITHUB.url}
+          target="_blank"
+          rel="noopener noreferrer">code</a
+        >, or say hello at <a href={`mailto:${EMAIL}`}>{EMAIL}</a>.
+      </p>
     </div>
-    <nav>
-      <ul class="space-y-4">
-        {
-          links.map((link, i) => (
-            <li
-              class="animate-fade-in-up opacity-0"
-              style={`animation-delay: ${(i + 1) * 0.05}s;`}
-            >
-              <a
-                href={link.href}
-                target={link.external ? "_blank" : undefined}
-                rel={link.external ? "noopener noreferrer" : undefined}
-                class="text-muted-foreground hover:text-accent text-lg transition-colors"
-              >
-                {link.label}
-              </a>
-            </li>
-          ))
-        }
-      </ul>
-    </nav>
     <div
       class="animate-fade-in-up pt-4 opacity-0"
-      style={`animation-delay: ${(links.length + 1) * 0.05}s;`}
+      style="animation-delay: 0.2s;"
     >
       <JanZoeng />
     </div>

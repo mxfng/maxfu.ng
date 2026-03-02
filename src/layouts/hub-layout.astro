@@ -15,8 +15,8 @@ const { title, description } = Astro.props;
 <html lang="en" style="view-transition-name:root">
   <SEO title={title} description={description} url={Astro.url?.href} />
   <ClientRouter />
-  <body class="flex min-h-dvh items-center justify-center font-sans">
-    <main class="w-full max-w-md px-6">
+  <body class="flex min-h-dvh justify-center font-sans">
+    <main class="w-full max-w-lg px-6 py-16 md:py-24">
       <slot />
     </main>
   </body>

@@ -76,7 +76,8 @@
     @apply bg-muted my-6 overflow-x-auto rounded p-4 text-sm;
   }
 
-  .prose img {
+  .prose img,
+  .prose video {
     @apply mx-auto my-12 w-full max-w-screen-md rounded-lg;
   }
 

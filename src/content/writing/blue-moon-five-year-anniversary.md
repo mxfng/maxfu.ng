@@ -9,7 +9,7 @@ Blue Moon represented the many late nights I spent up writing melancholy, nostal
 
 By the end of 2020, I had accumulated a handful of exciting tracks that defied any single genre and proved to be a risky but rewarding follow-on to the very compact and focused R&B/Pop work I did on my prior EP. I had been listening to a ton of Frank Ocean and Jimi Hendrix during this time, and looking back, their stylistic influence was extremely clear on my creative output.
 
-![Honesty moon shot](../../assets/writing/blue-moon-five-year-anniversary/honesty-moon-shot.webp)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/vXpejWS-UjU" frameborder="0" allowfullscreen></iframe>
 
 This all had me playing my guitar a lot more, and the bluesy style was rubbing off on my writing, which you can hear very clearly in the opening track, Restless. George Floyd had been killed recently and the Black Lives Matter protests were going full force, which inspired chaotic lyrics grappling between hope and hopelessness, reflecting how I was feeling about the state of the world.
 
@@ -28,6 +28,8 @@ I again commissioned Chandler Locke and Isabel Rist as creative directors for th
 ![See Through music video stills 3](../../assets/writing/blue-moon-five-year-anniversary/see-through-video-stills-3.webp)
 
 ![See Through music video stills 4](../../assets/writing/blue-moon-five-year-anniversary/see-through-video-stills-4.webp)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/9CNIUWSzqbc" frameborder="0" allowfullscreen></iframe>
 
 Blue Moon still stands to me as a testament to the creative freedom I was experiencing in those years, and my willingness to push my own boundaries and grow into my music to express something challenging, fresh, and exciting. Releasing music, for me, has always been a once-in-a-blue-moon occasion, so the name felt appropriate when it finally released.
 

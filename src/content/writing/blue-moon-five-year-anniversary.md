@@ -36,3 +36,5 @@ Blue Moon still stands to me as a testament to the creative freedom I was experi
 ![On set](../../assets/writing/blue-moon-five-year-anniversary/on-set.webp)
 
 ![Portrait with bass](../../assets/writing/blue-moon-five-year-anniversary/portrait-with-bass.webp)
+
+[Listen to Blue Moon](https://album.link/br4hxrq46kx07)

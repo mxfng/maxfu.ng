@@ -12,45 +12,35 @@ const sortedWritings = writings?.length
   : [];
 ---
 
-<div class="w-full overflow-x-auto">
-  <table class="w-full border-collapse">
-    <thead>
-      <tr class="border-border border-b">
-        <th
-          class="text-muted-foreground py-3 pr-4 text-left text-sm font-medium"
-          >Date</th
+<div class="w-full">
+  <div
+    class="animate-fade-in-up text-muted-foreground border-border flex border-b py-3 text-sm font-medium opacity-0"
+    style="animation-delay: 0.05s;"
+  >
+    <span class="w-48 shrink-0 pr-4">Date</span>
+    <span class="pl-4">Title</span>
+  </div>
+  {
+    sortedWritings.map((writing, i) => (
+      <a
+        href={`/writing/${writing.slug}`}
+        class="animate-fade-in-up border-border group flex h-12 items-center border-b no-underline opacity-0 last:border-b-0 md:h-16"
+        style={`animation-delay: ${0.1 + i * 0.05}s;`}
+      >
+        <time
+          datetime={writing.data.date.toISOString()}
+          class="text-muted-foreground w-48 shrink-0 pr-4 text-sm whitespace-nowrap"
         >
-        <th
-          class="text-muted-foreground py-3 pl-4 text-left text-sm font-medium"
-          >Title</th
-        >
-      </tr>
-    </thead>
-    <tbody>
-      {
-        sortedWritings.map((writing) => (
-          <tr
-            class="group border-border h-12 cursor-pointer border-b transition-colors last:border-b-0 md:h-16"
-            data-href={`/writing/${writing.slug}`}
-            onclick="window.location.href = this.dataset.href"
-          >
-            <td class="text-muted-foreground py-3 pr-4 text-sm whitespace-nowrap">
-              <time datetime={writing.data.date.toISOString()}>
-                {writing.data.date.toLocaleDateString("en-US", {
-                  year: "numeric",
-                  month: "long",
-                  day: "numeric",
-                })}
-              </time>
-            </td>
-            <td class="py-3 pl-4">
-              <span class="group-hover:text-accent transition-colors">
-                {writing.data.title}
-              </span>
-            </td>
-          </tr>
-        ))
-      }
-    </tbody>
-  </table>
+          {writing.data.date.toLocaleDateString("en-US", {
+            year: "numeric",
+            month: "long",
+            day: "numeric",
+          })}
+        </time>
+        <span class="group-hover:text-accent pl-4 transition-colors">
+          {writing.data.title}
+        </span>
+      </a>
+    ))
+  }
 </div>

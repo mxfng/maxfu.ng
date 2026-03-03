@@ -1,0 +1,41 @@
+---
+title: "Abbot Kinney's Grand Experiment"
+description: "Reconciling Venice's founding vision with its present reality."
+date: "2025-10-03T16:20:00-07:00"
+---
+
+Venice is one of Los Angeles' strangest neighborhoods. It's a patchwork of scenes that don't quite belong together: bohemian art, carnival kitsch, humble bungalows, luxury boxes. The streets are tight. Some have barely enough width to fit two cars passing each other. There's a disturbing clown in a ballerina suit atop the entrance to a CVS. Gothic sculptures are carved into pillars on old buildings. Short blocks, odd diagonals, and even canals are iconic to the area. Many are unaware that these are just the surviving remnants of a much bigger experiment.
+
+Venice has a lot of character, but to me, someone who's lived in the region for almost a decade, it's always felt like something's a bit off. The fine details lack cohesion. The culture feels classy and trashy at the same time. Skaters, artists, gangsters, and weirdos gave this place its edge, made it cool, contributed to its soul. Dogtown, beat poets, Jim Morrison and The Doors, [Z-Boys](https://en.wikipedia.org/wiki/Z-Boys), Venice Shoreline Crips, Arnold Schwarzenegger, an absurd list of culture born from one little neighborhood.
+
+## Venice of America
+
+Venice was eccentric long before Morrison scrawled lyrics in a cheap apartment. The neighborhood was the brainchild of [Abbot Kinney](https://en.wikipedia.org/wiki/Abbot_Kinney), a wealthy tobacco magnate who decided in 1905 to carve a "Venice of America" out of the marshland. He built sixteen miles of canals, imported gondoliers from Italy, and filled the beachfront with arcades, hotels, and amusement rides to get people in. Once upon a time, the [Pacific Electric](https://en.wikipedia.org/wiki/Pacific_Electric) streetcar line ended in Venice. The city was a bold attempt to graft a slice of Europe onto the California coast while also appealing to the Americana tastes of the time.
+
+![Venice saltwater canals](../../assets/writing/abbot-kinneys-grand-experiment/venice-saltwater-canals.jpg)
+
+Kinney's original vision didn't last. Maintaining miles of canals was expensive, and after his death in 1920, the neighborhood no longer had a wealthy champion. At the same time, cars began to dominate Los Angeles, and in that new reality, gondolas were uncool as ever. In 1924, residents couldn't see the gold mine in front of them, probably because all the water started smelling like human excrement, and voted to pave over their canals to make more room for gasoline-powered automobiles. Venice got annexed into Los Angeles in 1926, and the bureaucrats downtown had zero interest in preserving Kinney's dream. This marked the beginning of a period of steep decline, and by the mid-century, Venice had earned itself a new nickname, the "Slum by the Sea".
+
+## Asphalt Over Imagination
+
+We can take some insights away from this history: private vision can spark extraordinary cultural development, but without public stewardship, even the boldest ideas are destined to lose their direction. Kinney’s canals were a brilliant idea. Just look at some of the world’s most desirable cities: Amsterdam, or the original Venice from which ours gets its namesake. People love those places because waterways, when properly maintained, are not only functional, but incredibly beautiful. But Los Angeles—just as it did with the streetcar—amid changing times, automotive innovation, and [racial redlining](https://en.wikipedia.org/wiki/Redlining), was unwilling to invest. We collectively chose asphalt over imagination, and in doing so, lost the chance to preserve something truly unique.
+
+![Venice clogged with automobiles](../../assets/writing/abbot-kinneys-grand-experiment/venice-parking-lot.webp)
+
+What if Los Angeles had chosen to keep the canals instead of paving them over? What if the city had expanded and maintained this system of waterways, weaving public amenities into them? What if Venice remained a truly dense, walkable, car-free neighborhood, with plazas on every corner? Imagine all the bikes and trams connecting to the beach. The cafés and groceries tucked neatly into each block.
+
+Venice could have been our Venice on the Pacific in the truest sense, a place where water and public space shape everyday life. Instead, the canals were sacrificed to cars, and Venice became another neighborhood in a car-centric city. It's packed to the gills with parked cars, and navigating the streets today makes that reality especially grating. The irony is that Venice’s bones do a terrible job of supporting car use. Anyone who’s driven there knows it’s awful in a car.
+
+Cars don’t just clog the streets and pollute the air, they flatten our imagination. They make places interchangeable: wider roads, driveways, parking lots, zoning that separates houses from shops. A place like Venice isn't resistant to this kind of inertia. There's plenty of strip malls and big, paved parking lots here too, homogenizing it into the broader American built space. Kinney could dream up a city of canals because cars and pavement weren’t yet the organizing principle. Once they were, Los Angeles stopped imagining altogether.
+
+## What Remains
+
+Cars aside, I also see a neighborhood being warped by private residents and their modern wealth. Glass boxes eating up their postage-stamp lots. Luxury SUVs clogging narrow streets. It's a continuation of our culture's lack of imagination. An arrogance in tearing down the old and timeless for the new and trendy. There's a lot of cookie cutter modern architecture going up that's both tone-deaf to the character of the neighborhood and imposing on its visual scale. Venice's fascinating history and beach geography have attracted wealth in recent years, and rich homeowners are steadily sucking the character out of the neighborhood.
+
+Venice deserves a community that is able to build on top of its massive cultural heritage. And in my opinion, it should be a city meant for wandering on foot, by bike, or even by gondola. Imagine plazas opening up at odd intersections, where corner groceries and galleries spill into the street, where canals aren't just an isolated novelty. Imagine [Abbot Kinney Boulevard](https://en.wikipedia.org/wiki/Abbot_Kinney_Boulevard) closed to cars and returned to water, a canal running through the heart of Venice.
+
+What survives of Kinney's vision is still stunning. The [remaining canals](https://en.wikipedia.org/wiki/Venice_Canal_Historic_District) are some of the most beautiful and desirable blocks in Los Angeles. They're quiet, lush, and calm, with a distinct sense of place. The neighborhood's bones still have the DNA of pre-car imagination: tiny lots that create density, Craftsman homes pressed shoulder to shoulder, narrow streets that force intimacy and walkability. The boardwalk, even choked with all its tourists, is one of the most iconic public spaces in the entire city, one that tourists travel from across the world to experience.
+
+![Venice canals present day](../../assets/writing/abbot-kinneys-grand-experiment/venice-canals-today.jpg)
+
+Every time I walk the canals, I’m reminded of this: cities are not inevitable. They're a result of a community's choices. Through a series of bad choices, Venice has become fragmented and conflicted. And yet, even in fragments, the dream of Abbot Kinney still lingers. Just enough to make you wonder what might have been, and what still might be possible if we choose differently.

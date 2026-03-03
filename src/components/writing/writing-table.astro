@@ -36,7 +36,11 @@ const sortedWritings = writings?.length
           >
             <td class="text-muted-foreground py-3 pr-4 text-sm whitespace-nowrap">
               <time datetime={writing.data.date.toISOString()}>
-                {`${writing.data.date.getFullYear()}.${String(writing.data.date.getMonth() + 1).padStart(2, "0")}.${String(writing.data.date.getDate()).padStart(2, "0")}`}
+                {writing.data.date.toLocaleDateString("en-US", {
+                  year: "numeric",
+                  month: "long",
+                  day: "numeric",
+                })}
               </time>
             </td>
             <td class="py-3 pl-4">

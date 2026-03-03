@@ -1,5 +1,6 @@
 ---
 title: "A Drum Machine for the Browser"
+description: "Building a browser-native drum machine with Tone.js and the Web Audio API."
 date: "2025-03-20T08:00:00-07:00"
 ---
 

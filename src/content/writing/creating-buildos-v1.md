@@ -1,5 +1,6 @@
 ---
 title: "Creating BuildOS v1"
+description: "Leading the frontend rebuild of Dirac's manufacturing software."
 date: "2025-04-01T08:00:00-07:00"
 ---
 

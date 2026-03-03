@@ -1,5 +1,6 @@
 ---
 title: "Announcing Drumhaus v1"
+description: "A complete rewrite of my browser drum machine."
 date: "2026-01-06T12:00:00-08:00"
 ---
 

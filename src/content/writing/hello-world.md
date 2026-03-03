@@ -1,5 +1,6 @@
 ---
 title: "Hello World"
+description: "A fresh start and a new place to write."
 date: "2024-06-01T12:00:00-07:00"
 ---
 

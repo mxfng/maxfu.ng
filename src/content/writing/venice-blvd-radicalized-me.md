@@ -1,5 +1,6 @@
 ---
 title: "Venice Boulevard Radicalized Me"
+description: "How living on a six-lane arterial road in Los Angeles turned me into an urbanist."
 date: "2025-07-01T19:25:00-07:00"
 ---
 

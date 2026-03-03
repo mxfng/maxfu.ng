@@ -1,5 +1,6 @@
 ---
 title: "On Turning 30"
+description: "A golden birthday reflection on three decades of life."
 date: "2025-09-29T20:08:00-07:00"
 ---
 

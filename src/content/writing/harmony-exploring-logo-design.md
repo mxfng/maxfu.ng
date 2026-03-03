@@ -1,5 +1,6 @@
 ---
 title: "Harmony: Exploring Logo Design"
+description: "Reimagining the peace symbol through geometric forms."
 date: "2025-06-01T01:52:00-07:00"
 ---
 

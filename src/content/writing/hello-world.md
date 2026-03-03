@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-date: "2025-05-23T21:00:00-07:00"
+date: "2024-06-01T12:00:00-07:00"
 ---
 
 A new website is like a new chapter.

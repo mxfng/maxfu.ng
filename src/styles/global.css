@@ -153,8 +153,32 @@
 }
 
 /* view transitions */
-::view-transition-old(root),
+@keyframes blur-fade-in {
+  from {
+    opacity: 0;
+    filter: blur(8px);
+  }
+  to {
+    opacity: 1;
+    filter: blur(0);
+  }
+}
+
+@keyframes blur-fade-out {
+  from {
+    opacity: 1;
+    filter: blur(0);
+  }
+  to {
+    opacity: 0;
+    filter: blur(8px);
+  }
+}
+
+::view-transition-old(root) {
+  animation: blur-fade-out 0.25s ease-in-out;
+}
+
 ::view-transition-new(root) {
-  animation-duration: 0.2s;
-  animation-timing-function: ease-out;
+  animation: blur-fade-in 0.25s ease-in-out;
 }

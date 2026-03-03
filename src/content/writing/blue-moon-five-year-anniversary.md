@@ -2,6 +2,7 @@
 title: "Blue Moon: Five Year Anniversary"
 description: "Late nights in Playa del Rey and the creative freedom that shaped my second EP."
 date: "2025-12-11T08:00:00-08:00"
+image: "/og/blue-moon-five-year-anniversary.jpg"
 ---
 
 Blue Moon represented the many late nights I spent up writing melancholy, nostalgic, and downright haunting songs in my bedroom studio in Playa del Rey. I had gone through a long period of being out on my own for the very first time, and this mixture of newfound independence and a deep sense of longing for intimacy culminated in a creative flurry of musical experimentation and boundary pushing. It was also a playful nod at the partying I was doing during my last year of college.

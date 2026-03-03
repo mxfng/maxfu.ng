@@ -2,6 +2,7 @@
 title: "Harmony: Exploring Logo Design"
 description: "Reimagining the peace symbol through geometric forms."
 date: "2025-06-01T01:52:00-07:00"
+image: "/og/harmony-exploring-logo-design.jpg"
 ---
 
 While designing this site, I knew I wanted a bold visual motif—something personally meaningful, graphically striking, and conceptually rich. It became a chance to reconnect with my design background and experiment with visual symbolism.

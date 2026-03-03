@@ -2,6 +2,7 @@
 title: "Lotus: Five Summers Later"
 description: "Reflecting on my first solo EP after five years."
 date: "2024-07-04T08:00:00-07:00"
+image: "/og/lotus-five-summers-later.jpg"
 ---
 
 Five years ago, in the summer of 2019, I released my first solo EP which I had painstakingly written, produced, curated, and performed over the past two years. The songs explored the themes of loss, death, rebirth, and growth as I grappled with the pressures of young adulthood and a very painful breakup.

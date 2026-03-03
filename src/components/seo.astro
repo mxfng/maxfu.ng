@@ -4,6 +4,7 @@ interface Props {
   description?: string;
   url?: string;
   slug?: string;
+  image?: string;
 }
 
 const {
@@ -11,11 +12,14 @@ const {
   description = "Software engineer and musician based in Los Angeles.",
   url = "https://fung.studio",
   slug,
+  image,
 } = Astro.props;
 
-const ogImage = slug
-  ? `https://fung.studio/og/${slug}.png`
-  : "https://fung.studio/og/default.png";
+const ogImage = image
+  ? `https://fung.studio${image}`
+  : slug
+    ? `https://fung.studio/og/${slug}.png`
+    : "https://fung.studio/og/default.png";
 
 const DEFAULT_TITLE = "Max Fung";
 const pageTitle = title ? `${title} - Max Fung` : DEFAULT_TITLE;

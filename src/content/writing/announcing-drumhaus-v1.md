@@ -2,6 +2,7 @@
 title: "Announcing Drumhaus v1"
 description: "A complete rewrite of my browser drum machine."
 date: "2026-01-06T12:00:00-08:00"
+image: "/og/announcing-drumhaus-v1.jpg"
 ---
 
 In late 2023, I built Drumhaus, a browser-native drum machine powered by Tone.js and the Web Audio API. It was a passion project born from an obsession with the tools behind my music, a way to combine code and music in the form of an instrument anyone could play on the web. I shipped it and shared it on [Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/183pvg0/i_built_a_web_based_drum_machine_using_nextjs_and/).

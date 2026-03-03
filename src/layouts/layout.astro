@@ -9,9 +9,10 @@ interface Props {
   title?: string;
   description?: string;
   slug?: string;
+  image?: string;
 }
 
-const { title, description, slug } = Astro.props;
+const { title, description, slug, image } = Astro.props;
 ---
 
 <!doctype html>
@@ -21,6 +22,7 @@ const { title, description, slug } = Astro.props;
     description={description}
     url={Astro.url?.href}
     slug={slug}
+    image={image}
   />
   <ClientRouter />
   <body class="flex min-h-dvh flex-col font-sans">

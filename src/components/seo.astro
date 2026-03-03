@@ -3,13 +3,19 @@ interface Props {
   title?: string;
   description?: string;
   url?: string;
+  slug?: string;
 }
 
 const {
   title,
-  description = "Musician, developer, and designer living in Los Angeles.",
+  description = "Software engineer and musician based in Los Angeles.",
   url = "https://fung.studio",
+  slug,
 } = Astro.props;
+
+const ogImage = slug
+  ? `https://fung.studio/og/${slug}.png`
+  : "https://fung.studio/og/default.png";
 
 const DEFAULT_TITLE = "Max Fung";
 const pageTitle = title ? `${title} - Max Fung` : DEFAULT_TITLE;
@@ -21,42 +27,16 @@ const pageTitle = title ? `${title} - Max Fung` : DEFAULT_TITLE;
 <meta property="og:type" content="website" />
 <meta property="og:title" content={pageTitle} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content="/share.png" />
+<meta property="og:image" content={ogImage} />
 <meta property="og:url" content={url} />
 <meta property="og:site_name" content={DEFAULT_TITLE} />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content={pageTitle} />
 <meta name="twitter:description" content={description} />
-<meta name="twitter:image" content="/share.png" />
+<meta name="twitter:image" content={ogImage} />
 <meta name="author" content="Max Fung" />
-<meta name="robots" content="index, follow" />
 <link rel="canonical" href={url} />
 <link rel="icon" href="/favicon.png" type="image/png" sizes="48x48" />
-<meta
-  name="keywords"
-  content="Max Fung, software engineer, music producer, web developer, designer, frontend, Los Angeles, musician"
-/>
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "Max Fung",
-    "url": "https://fung.studio",
-    "sameAs": [
-      "https://github.com/mxfng",
-      "https://www.linkedin.com/in/maxfung/"
-    ],
-    "jobTitle": "Software Engineer, Musician, Designer",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Los Angeles",
-      "addressRegion": "CA",
-      "addressCountry": "US"
-    }
-  }
-</script>
-
 <link
   rel="preload"
   href="/fonts/switzer/Switzer-Variable.woff2"
@@ -64,5 +44,4 @@ const pageTitle = title ? `${title} - Max Fung` : DEFAULT_TITLE;
   type="font/woff2"
   crossorigin="anonymous"
 />
-
 <title>{pageTitle}</title>

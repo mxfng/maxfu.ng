@@ -19,7 +19,11 @@ const { writing, prevEntry, nextEntry } = Astro.props;
 const { Content } = await writing.render();
 ---
 
-<Layout title={writing.data.title}>
+<Layout
+  title={writing.data.title}
+  description={writing.data.description}
+  slug={writing.slug}
+>
   <div class="w-full space-y-12">
     <section
       class="animate-fade-in-up space-y-6 border-b pb-8 opacity-0 md:pb-12"

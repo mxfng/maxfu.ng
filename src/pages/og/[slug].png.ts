@@ -4,10 +4,12 @@ import { generateOgImage } from "@/lib/og-image";
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const writings = await getWritings();
-  return writings.map((writing) => ({
-    params: { slug: writing.slug },
-    props: { title: writing.data.title },
-  }));
+  return writings
+    .filter((w) => !w.data.image)
+    .map((writing) => ({
+      params: { slug: writing.slug },
+      props: { title: writing.data.title },
+    }));
 };
 
 export const GET: APIRoute = async ({ props }) => {

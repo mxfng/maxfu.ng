@@ -13,7 +13,7 @@ const FONT_SIZE = 96; // Default site title
 const FONT_SIZE_RATIO_DEFAULT = 1.15; // Multiplies FONT_SIZE for default og image
 const FONT_SIZE_RATIO_NAME = 2; // Divides FONT_SIZE for name underneath content titles
 
-export async function generateOgImage(title?: string): Promise<Buffer> {
+export async function generateOgImage(title?: string) {
   const fontData = readFileSync(FONT_PATH);
 
   const children = [];
@@ -81,5 +81,10 @@ export async function generateOgImage(title?: string): Promise<Buffer> {
     },
   );
 
-  return sharp(Buffer.from(svg)).png().toBuffer();
+  const buffer = await sharp(Buffer.from(svg)).png().toBuffer();
+  // Cast: Buffer.buffer is typed as ArrayBufferLike but is always ArrayBuffer at runtime
+  return buffer.buffer.slice(
+    buffer.byteOffset,
+    buffer.byteOffset + buffer.byteLength,
+  ) as ArrayBuffer;
 }

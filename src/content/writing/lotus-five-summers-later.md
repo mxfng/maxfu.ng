@@ -40,3 +40,5 @@ The concept behind the title for Lotus is extremely relevant to my life. One eve
 The lotus flower is held sacred by many people throughout the world. To me it stands as a symbol for rebirth and enlightenment. Once you give it a listen, I hope that it will mean something special to you too.
 
 [Listen to Lotus](https://album.link/xkrc4cgctwccj)
+
+[More music →](/music)

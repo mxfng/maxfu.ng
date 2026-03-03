@@ -1,7 +1,6 @@
 ---
 import Layout from "@/layouts/layout.astro";
 import { Image } from "astro:assets";
-import { URLS } from "@/content/urls";
 import coverLotus from "@/assets/images/cover-lotus.png";
 import coverBlueMoon from "@/assets/images/cover-blue-moon.JPG";
 import coverFarFromHome from "@/assets/images/cover-far-from-home.png";
@@ -61,41 +60,6 @@ const albums = [
             </li>
           ))
         }
-      </ul>
-    </section>
-    <section
-      class="animate-fade-in-up space-y-4 pb-8 opacity-0 md:pb-12"
-      style="animation-delay: 0.1s;"
-    >
-      <h2 class="text-lg font-medium">Listen</h2>
-      <ul class="space-y-2">
-        <li>
-          <a
-            href={URLS.SPOTIFY_MAX_FUNG.url}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Spotify
-          </a>
-        </li>
-        <li>
-          <a
-            href={URLS.APPLE_MUSIC_MAX_FUNG.url}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Apple Music
-          </a>
-        </li>
-        <li>
-          <a
-            href={URLS.YOUTUBE_MUSIC_MAX_FUNG.url}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            YouTube Music
-          </a>
-        </li>
       </ul>
     </section>
   </div>

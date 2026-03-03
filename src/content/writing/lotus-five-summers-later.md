@@ -41,4 +41,4 @@ The lotus flower is held sacred by many people throughout the world. To me it st
 
 [Listen to Lotus](https://album.link/xkrc4cgctwccj)
 
-[More music →](/music)
+[More music](/music)

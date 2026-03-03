@@ -41,4 +41,4 @@ Blue Moon still stands to me as a testament to the creative freedom I was experi
 
 [Listen to Blue Moon](https://album.link/br4hxrq46kx07)
 
-[More music →](/music)
+[More music](/music)

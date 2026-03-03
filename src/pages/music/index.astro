@@ -37,11 +37,16 @@ const albums = [
       class="animate-fade-in-up opacity-0"
       style="animation-delay: 0.05s;"
     >
-      <ul class="grid grid-cols-3 gap-4 md:gap-6">
+      <ul class="grid grid-cols-2 gap-4 md:grid-cols-3 md:gap-6">
         {
           albums.map((album) => (
             <li>
-              <a href={album.url} target="_blank" rel="noopener noreferrer">
+              <a
+                href={album.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="no-underline"
+              >
                 <Image
                   src={album.cover}
                   alt={`${album.title} album cover`}

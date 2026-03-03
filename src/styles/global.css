@@ -111,7 +111,7 @@
     @apply text-foreground hover:text-accent transition-colors;
   }
 
-  p a {
+  :is(p, li, dd) > a {
     @apply underline underline-offset-2;
   }
 

@@ -1,9 +1,15 @@
 ---
 import seal from "@/assets/images/jan-zoeng.svg?raw";
+
+interface Props {
+  class?: string;
+}
+
+const { class: className = "text-primary" } = Astro.props;
 ---
 
 <div
-  class="opacity-80 [&>svg]:h-12 [&>svg]:w-12"
+  class:list={["opacity-80 [&>svg]:h-12 [&>svg]:w-12", className]}
   set:html={seal}
   aria-label="馮智成印"
 />

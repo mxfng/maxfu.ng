@@ -25,13 +25,13 @@ The cover came to me very clearly in a dream, and was shot at the lotus pond in 
 
 Each piece of media proved to be its own adventure. For the Smoke music video, we spent 8 hours burning up in the desert sun just outside of Victorville lighting fire to colored smoke grenades, recreating the Holi effect with chalk, and smashing a perfectly functional guitar. We rented a submersible housing for our camera equipment and took it into the Pacific Ocean at the Santa Monica pier to film the music video for Anything, and for Sweet Dreams, I was in and out of Isabel's family pool in order to achieve the aesthetic of being a human Lotus.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/22mM4PnUYjg" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/22mM4PnUYjg" frameborder="0" allowfullscreen title="Max Fung - Smoke (Trailer)" loading="lazy"></iframe>
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/G89Wpx9ex0U" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/G89Wpx9ex0U" frameborder="0" allowfullscreen title="Max Fung - Smoke [Official Video]" loading="lazy"></iframe>
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/O2LMWKSoY6U" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/O2LMWKSoY6U" frameborder="0" allowfullscreen title="Max Fung - Anything (Trailer)" loading="lazy"></iframe>
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/6UeD57wDPZc" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/6UeD57wDPZc" frameborder="0" allowfullscreen title="Max Fung - Sweet Dreams (Trailer)" loading="lazy"></iframe>
 
 The concept behind the title for Lotus is extremely relevant to my life. One evening, during meditation, my mother envisioned herself diving into a lotus pond and retrieving a child from the mud. Soon after this, she was gifted her first baby, and to this day swears that she found my soul in that pond.
 

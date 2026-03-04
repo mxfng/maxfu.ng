@@ -3,4 +3,11 @@ import { Image } from "astro:assets";
 import seal from "@/assets/images/jan-zoeng.png";
 ---
 
-<Image src={seal} alt="馮智成印" width={48} height={48} class="opacity-80" />
+<Image
+  src={seal}
+  alt="馮智成印"
+  width={48}
+  height={48}
+  loading="eager"
+  class="opacity-80"
+/>

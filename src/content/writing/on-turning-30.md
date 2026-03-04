@@ -4,26 +4,22 @@ description: "A golden birthday reflection on three decades of life."
 date: "2025-09-29T20:08:00-07:00"
 ---
 
-Tomorrow is my golden birthday. A golden birthday is the once-in-a-lifetime overlap where the number of one's age matches the number of the day. For me, it's the 30th on the 30th. Tonight marks the final note of my own personal roaring twenties, the first page for whatever comes next.
+Tomorrow is my golden birthday, a once-in-a-lifetime overlap where my age is the same number as the day. I'm turning 30 on the 30th. That means that tonight marks the final note of my roaring twenties, and the first page for whatever comes next.
 
-Each one of us will be so lucky as to get to experience our golden birthday. Mine's about as late as they come, just shy of the rare thirty-firsts, so I've waited longer than most humans ever will in the history of the Gregorian calendar to meet mine.
+Through all of its ups and downs, I've enjoyed every piece of my life so far. The wisdom, experience, and opportunities it's presented. I've earned my right to be here. To know that I'm good enough. That my goal should be to master my inner world before worrying about external issues beyond my control.
 
-Every birthday, not just my golden birthday, has been a gentle reminder to slow down and reflect on my life so far. Writing this down is an act of meditation, in defiance of the nagging urges and routines my daily life pushes me towards. There is always some kind of forward momentum, both internal and external, pushing us forward in life, as we ride the currents of time and space, growing with each passing day.
+I'm grateful. For all the people I've known and loved. To those I've looked up to. To the pioneers and trailblazers who set a path for me to follow. I stand on the shoulders of giants. I'm grateful to my mom, who showed me what unconditional love is. To my brother, who saw me as a legend when I did not. To my dad, who pushed through his own struggles in life to always provide for my brother and me. To both my parents for teaching me a deep love for music and the arts. To my teachers, for lessons that made my world richer and more vibrant. To my friends, for showing me what togetherness feels like. To my girlfriend, who's brought new flame to my life and showed me compassion and love through tough and uncertain times. To my community, for adding a constant dose of humanity to everyday life.
 
-I get to reflect on three beautiful decades of life tonight, and what a life it's been. I feel grateful for my friends, my family, and the people I've loved and still love.
+I want to continue to feel connected to others. Keep wandering the world. Walking the boulevards. Seeing oceans. Tasting cuisines. Meandering through forests. Meeting new people. Climbing mountains. Riding waves, each one of them unique. Crossing new boundaries. Dancing to all different kinds of music. Exploring the unknown. Pushing myself to be better from a place of kindness. Lifting the weights when they're heavy. Maintaining a healthy relationship with discomfort. Life is sweet and brutal. To suffer is to live, and love is sweeter after pain.
 
-As I step into my thirties, I want to carry this happiness I feel in my soul with me to the end of my days. To feel connected to others, because life is meaningless without friendship and others to love. Shared experiences, lessons, and memories define who I am more than anything I've ever owned or sold.
+As I step into my thirties, I want to carry this optimism forward.
 
-I want to keep wandering the world, so I can walk all the boulevards, see all the oceans, taste all the cuisines, walk through the forests, meet all the people, smell all the wonderful smells this world has to offer.
+## A letter to my 20-year-old self
 
-## Brief Letters to Myself
+> What you focus on is everything you are and everything you will become. You're in control of that. Focus on what inspires you. There's no price on time, and you won't get any back. So invest in others nearly as much as you invest in yourself. Love each new day and appreciate it while it's here. Be true to yourself, and trust your instincts. Don't just emulate. Incorporate what uplifts you and discard the rest. Challenge your mind and body. Follow through with your education. You'll become more well-rounded than you expect. Acceptance from your peers is not a virtue. Neither is controversy for controversy's sake. You are good enough and always were.
 
-If I could write a letter to myself turning 20, I might say something like this:
+## A letter to my 40-year-old self
 
-> What you focus on is everything you are and everything you will become. You are in control of that focus, and it's the greatest power you will be given. There is no price on time, and you will not get any back. Look at each passing minute as an investment, and try to invest in others nearly as much as you invest in yourself. Love each day, love the music, the beaches, the waves, the sunsets, the ladies, the boys, and all the ups and downs that lie ahead. Be true to yourself. Don't just emulate, incorporate. You've always been good enough, full stop.
+> What's most important to me is that you've kept your soul, your curiosity, your love for adventure, that twinkle in your eye. Stay curious and stay young at heart. When life feels heavier, remember what got you out of bed in the morning before. Hope you're making music. Writing even better code. Staying in peak shape. Ripping through ocean waves and high alpine powder when you can. Finding time for the people and things that matter the most. When we were really little, we promised ourselves we'd never stop loving Pokémon. You better still love Pokémon. I have a few more requests now, actually. But I trust you'll still remember what they are.
 
-As to my 40-year-old self, ten years from now:
-
-> Just because you're ten years further from the moment I wrote this means very little in the grand shceme of life and the universe. What's most important is that you have kept your soul, your dignity, your love for life, exploration, and adventure. Don't stop loving music, coding, surfing, snowboarding, traveling, and connecting with friends just because you've taken on some new responsibilities. I hope you're finding time for the things you love so you can share them with the people that matter to you the most. Age is truly but a number, and staying young at heart has always mattered to me, even as a child. I wish for you that it only gets better from here on out.
-
-I don't want to dwell on this too much because midnight approaches, and life will continue to go on as it has. But for this moment, I'm thankful. Thankful for every breath, every chance, every person who's been a part of the ride.
+I won't dwell on the past or future too much. I want this post done by midnight. Life has a way of moving on, like it always has. But for this moment, I'm thankful. Thankful for every breath, every chance, every person who's been a part of the ride.

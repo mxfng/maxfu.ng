@@ -19,7 +19,7 @@ This new EP had gone through several scraps and iterations before manifesting it
 
 ![Portrait for Blue Moon](../../assets/writing/blue-moon-five-year-anniversary/portrait-for-blue-moon.webp)
 
-I again commissioned Chandler Locke and Isabel Rist as creative directors for the promotional material, and we managed to pull together some truly beautiful visual projects. We did a traditional magazine-style photo shoot for the cover where I dressed up in a Prince-inspired outfit. We managed to produce a mini music video for the song Honesty and a full-length music video for See Through, where I got to rent a Mercedes convertible on Turo, which was a ton of fun to drive. I commissioned a 3D artist to achieve a massive moon effect in the Honesty video, and I was really pleased with the results.
+I again commissioned [Chandler Locke](https://www.chandlerlocke.com/) and [Isabel Rist](https://www.isabelrist.com/) as creative directors for the promotional material, and we managed to pull together some truly beautiful visual projects. We did a traditional magazine-style photo shoot for the cover where I dressed up in a Prince-inspired outfit. We managed to produce a mini music video for the song Honesty and a full-length music video for See Through, where I got to rent a Mercedes convertible on Turo, which was a ton of fun to drive. I commissioned a 3D artist to achieve a massive moon effect in the Honesty video, and I was really pleased with the results.
 
 ![Video gimbal assembly](../../assets/writing/blue-moon-five-year-anniversary/video-gimbal-assembly.webp)
 

@@ -9,7 +9,7 @@ Five years ago, in the summer of 2019, I released my first solo EP which I had p
 
 ![Lotus cover hero](../../assets/writing/lotus-five-summers-later/lotus-cover-hero.webp)
 
-I worked closely with some tremendously talented friends to write, perform, photograph and film every single creative vision I had for the project with the goal of actualizing these ideas fully, without compromise. Danielle Rae provided vocals on the breakout track Angel, which received over 40,000 streams within the first month of release. Chandler Locke and Isabel Rist served as creative co-directors on all of the promotional material, and we worked closely to plan out shoots across various locations in Southern California for each individual track, as well as a merchandise line.
+I worked closely with some tremendously talented friends to write, perform, photograph and film every single creative vision I had for the project with the goal of actualizing these ideas fully, without compromise. Danielle Rae provided vocals on the breakout track Angel, which received over 40,000 streams within the first month of release. [Chandler Locke](https://www.chandlerlocke.com/) and [Isabel Rist](https://www.isabelrist.com/) served as creative co-directors on all of the promotional material, and we worked closely to plan out shoots across various locations in Southern California for each individual track, as well as a merchandise line.
 
 ![Merchandise modeling group](../../assets/writing/lotus-five-summers-later/merchandise-modeling-group.webp)
 

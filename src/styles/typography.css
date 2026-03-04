@@ -12,7 +12,7 @@
   .prose ul,
   .prose ol,
   .prose hr {
-    @apply mx-auto max-w-screen-sm;
+    @apply mx-auto max-w-2xl;
   }
 
   .prose h1 {
@@ -69,7 +69,7 @@
   }
 
   .prose blockquote p {
-    @apply max-w-screen-md leading-normal;
+    @apply max-w-full leading-normal;
   }
 
   .prose pre {
@@ -79,7 +79,7 @@
   .prose img,
   .prose video,
   .prose iframe {
-    @apply mx-auto my-12 w-full max-w-screen-md rounded-lg;
+    @apply mx-auto my-12 w-full max-w-full rounded-lg;
   }
 
   .prose p:has(> img:only-child) {

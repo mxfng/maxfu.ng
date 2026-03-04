@@ -68,6 +68,11 @@
     content: close-quote;
   }
 
+  .prose blockquote p:has(cite)::before,
+  .prose blockquote p:has(cite)::after {
+    content: none;
+  }
+
   .prose blockquote p {
     @apply max-w-full leading-normal;
   }

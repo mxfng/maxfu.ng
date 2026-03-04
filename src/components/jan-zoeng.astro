@@ -1,13 +1,9 @@
 ---
-import { Image } from "astro:assets";
-import seal from "@/assets/images/jan-zoeng.png";
+import seal from "@/assets/images/jan-zoeng.svg?raw";
 ---
 
-<Image
-  src={seal}
-  alt="馮智成印"
-  width={48}
-  height={48}
-  loading="eager"
-  class="opacity-80"
+<div
+  class="opacity-80 [&>svg]:h-12 [&>svg]:w-12"
+  set:html={seal}
+  aria-label="馮智成印"
 />

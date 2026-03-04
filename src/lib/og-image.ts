@@ -7,8 +7,8 @@ const FONT_PATH = join(process.cwd(), "src/assets/fonts/Switzer-Medium.ttf");
 
 const WIDTH = 1200;
 const HEIGHT = 630;
-const BG = "#161616"; // from css var(--background)
-const FG = "#ffffff"; // from css var(--foreground)
+const BG = "#1a1a1a"; // oklch(0.2178 0 0) — var(--background)
+const FG = "#e5e5e5"; // oklch(0.9219 0 0) — var(--foreground)
 const FONT_SIZE = 96; // Default site title
 const FONT_SIZE_RATIO_DEFAULT = 1.15; // Multiplies FONT_SIZE for default og image
 const FONT_SIZE_RATIO_NAME = 2; // Divides FONT_SIZE for name underneath content titles

@@ -10,4 +10,9 @@ export default defineConfig({
   },
   site: "https://fung.studio/",
   integrations: [sitemap()],
+  markdown: {
+    shikiConfig: {
+      theme: "rose-pine-moon",
+    },
+  },
 });

@@ -132,7 +132,11 @@
   }
 
   pre {
-    @apply bg-muted my-6 overflow-x-auto rounded p-4 text-sm;
+    @apply my-6 overflow-x-auto rounded p-4 text-sm;
+  }
+
+  pre code {
+    @apply bg-transparent p-0;
   }
 
   img {

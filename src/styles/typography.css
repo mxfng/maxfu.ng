@@ -78,7 +78,7 @@
   }
 
   .prose pre {
-    @apply bg-muted my-6 overflow-x-auto rounded p-4 text-sm;
+    @apply mx-auto my-6 max-w-2xl overflow-x-auto rounded p-4 text-sm;
   }
 
   .prose img,

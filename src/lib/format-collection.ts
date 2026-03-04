@@ -20,16 +20,15 @@ function formatCollection(
 
   let result = [...entries];
 
-  if (filterOutFuture) {
+  if (import.meta.env.PROD) {
+    result = result.filter((entry) => !entry.data.draft);
+  }
+
+  if (filterOutFuture && import.meta.env.PROD) {
     const now = Date.now();
-    result = result.reduce<CollectionEntry<"writing">[]>((acc, entry) => {
-      const { date } = entry.data;
-
-      if (filterOutFuture && new Date(date).getTime() > now) return acc;
-
-      acc.push(entry);
-      return acc;
-    }, []);
+    result = result.filter(
+      (entry) => new Date(entry.data.date).getTime() <= now,
+    );
   }
 
   if (sortBy) {

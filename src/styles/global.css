@@ -138,7 +138,7 @@
 
   :is(p, li, dd) > a {
     @apply underline decoration-1 underline-offset-2;
-    text-decoration-color: oklch(1 0 0 / 0.35);
+    text-decoration-color: oklch(1 0 0 / 0.6);
   }
 
   blockquote {

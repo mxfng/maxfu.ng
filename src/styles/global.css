@@ -3,6 +3,24 @@
 @import "./typography.css";
 @import "./scroll.css";
 
+@layer utilities {
+  .font-light {
+    font-variation-settings: "wght" 300;
+  }
+  .font-normal {
+    font-variation-settings: "wght" 440;
+  }
+  .font-medium {
+    font-variation-settings: "wght" 520;
+  }
+  .font-semibold {
+    font-variation-settings: "wght" 600;
+  }
+  .font-bold {
+    font-variation-settings: "wght" 680;
+  }
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
@@ -76,6 +94,13 @@
 
   body {
     @apply bg-background text-foreground font-sans;
+    font-synthesis: none;
+    font-optical-sizing: auto;
+    text-rendering: geometricPrecision;
+    text-decoration-skip-ink: auto;
+    letter-spacing: 0.008em;
+    word-spacing: -0.04em;
+    -webkit-tap-highlight-color: transparent;
   }
 
   h1,
@@ -112,7 +137,8 @@
   }
 
   :is(p, li, dd) > a {
-    @apply underline underline-offset-2;
+    @apply underline decoration-1 underline-offset-2;
+    text-decoration-color: oklch(1 0 0 / 0.35);
   }
 
   blockquote {
@@ -154,6 +180,11 @@
   .link-subtle {
     @apply text-muted-foreground hover:text-foreground transition-colors duration-200;
   }
+}
+
+*::selection {
+  background: var(--border);
+  color: var(--foreground);
 }
 
 /* view transitions */

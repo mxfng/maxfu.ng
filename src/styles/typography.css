@@ -1,6 +1,9 @@
 @layer base {
   .prose {
     @apply max-w-none leading-relaxed;
+    hanging-punctuation: first allow-end last;
+    hyphens: auto;
+    hyphenate-limit-chars: 10 6 6;
   }
 
   /* Narrow max-width for body content */

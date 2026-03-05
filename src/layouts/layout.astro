@@ -29,7 +29,9 @@ const { title, description, slug, image } = Astro.props;
   </head>
   <body class="flex min-h-dvh flex-col font-sans">
     <MinimalHeader />
-    <main class="page-container mt-12 flex flex-1 flex-col md:mt-16">
+    <main
+      class="page-container mt-12 flex flex-1 flex-col pb-16 md:mt-16 md:pb-24"
+    >
       <slot />
     </main>
   </body>

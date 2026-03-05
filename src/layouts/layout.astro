@@ -17,14 +17,16 @@ const { title, description, slug, image } = Astro.props;
 
 <!doctype html>
 <html lang="en" style="view-transition-name:root">
-  <SEO
-    title={title}
-    description={description}
-    url={Astro.url?.href}
-    slug={slug}
-    image={image}
-  />
-  <ClientRouter />
+  <head>
+    <SEO
+      title={title}
+      description={description}
+      url={Astro.url?.href}
+      slug={slug}
+      image={image}
+    />
+    <ClientRouter />
+  </head>
   <body class="flex min-h-dvh flex-col font-sans">
     <MinimalHeader />
     <main class="page-container mt-12 flex flex-1 flex-col md:mt-16">

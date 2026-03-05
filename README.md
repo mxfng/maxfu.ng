@@ -1,8 +1,10 @@
-# fung.studio
+# maxfu.ng
 
-Personal website. Built with Astro and Tailwind CSS, deployed on Cloudflare.
+Source code for my personal website: <https://maxfu.ng>
 
-```shell
-pnpm install
-pnpm dev
-```
+- Astro v5 + TypeScript
+- TailwindCSS v4
+- OpenGraph image generation with Satori and Sharp
+- Deployed on Cloudflare Workers
+
+![Jan zoeng chinese seal](./src/assets/images/jan-zoeng.svg)

@@ -9,7 +9,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: "https://fung.studio/",
+  site: "https://maxfu.ng/",
   integrations: [sitemap()],
   markdown: {
     shikiConfig: {

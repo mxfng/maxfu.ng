@@ -1,1 +1,1 @@
-export const EMAIL = "max@fung.studio";
+export const EMAIL = "max@maxfu.ng";

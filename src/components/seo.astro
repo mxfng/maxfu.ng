@@ -10,16 +10,16 @@ interface Props {
 const {
   title,
   description = "Software engineer and musician based in Los Angeles.",
-  url = "https://fung.studio",
+  url = "https://maxfu.ng",
   slug,
   image,
 } = Astro.props;
 
 const ogImage = image
-  ? `https://fung.studio${image}`
+  ? `https://maxfu.ng${image}`
   : slug
-    ? `https://fung.studio/og/${slug}.png`
-    : "https://fung.studio/og/default.png";
+    ? `https://maxfu.ng/og/${slug}.png`
+    : "https://maxfu.ng/og/default.png";
 
 const DEFAULT_TITLE = "Max Fung";
 const pageTitle = title ? `${title} - Max Fung` : DEFAULT_TITLE;

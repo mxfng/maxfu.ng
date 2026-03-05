@@ -1,17 +1,15 @@
 ---
 import HubLayout from "@/layouts/hub-layout.astro";
 import JanZoeng from "@/components/jan-zoeng.astro";
-import { EMAIL } from "@/content/email";
-import { URLS } from "@/content/urls";
 ---
 
 <HubLayout>
   <div class="space-y-12">
-    <section class="animate-fade-in-up opacity-0" style="animation-delay: 0s;">
+    <section>
       <h3>Max Fung</h3>
     </section>
     <div class="space-y-8">
-      <p class="animate-fade-in-up opacity-0" style="animation-delay: 0.05s;">
+      <p>
         Building for the web, making <a href="/music">music</a>, and <a
           href="/writing">writing</a
         >
@@ -21,26 +19,23 @@ import { URLS } from "@/content/urls";
           rel="noopener noreferrer">Drumhaus</a
         >, a drum machine for the browser.
       </p>
-      <p class="animate-fade-in-up opacity-0" style="animation-delay: 0.1s;">
+      <p>
         I've been an engineer at places like Boeing, Flexe, and Dirac. Currently
         consulting through my own studio. If you need help building something, <a
-          href={`mailto:${EMAIL}`}>reach out</a
+          href={`mailto:m@maxfu.ng`}>reach out</a
         >.
       </p>
-      <p class="animate-fade-in-up opacity-0" style="animation-delay: 0.15s;">
+      <p>
         You can read my <a href="/writing">writing</a> or <a
-          href={URLS.GITHUB.url}
+          href="https://github.com/mxfng"
           target="_blank"
           rel="noopener noreferrer">code</a
         >, listen to my <a href="/music">music</a>, or say hello at <a
-          href={`mailto:${EMAIL}`}>{EMAIL}</a
+          href={`mailto:m@maxfu.ng`}>m@maxfu.ng</a
         >.
       </p>
     </div>
-    <div
-      class="animate-fade-in-up flex justify-end pt-4 opacity-0"
-      style="animation-delay: 0.2s;"
-    >
+    <div class="flex justify-end pt-4">
       <JanZoeng />
     </div>
   </div>

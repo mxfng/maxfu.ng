@@ -16,7 +16,10 @@ export default defineConfig({
       theme: "rose-pine-moon",
     },
     rehypePlugins: [
-      [rehypeExternalLinks, { target: "_blank", rel: ["noopener", "noreferrer"] }],
+      [
+        rehypeExternalLinks,
+        { target: "_blank", rel: ["noopener", "noreferrer"] },
+      ],
     ],
   },
 });

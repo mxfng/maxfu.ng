@@ -14,11 +14,10 @@ const sortedWritings = writings?.length
 
 <div class="w-full">
   {
-    sortedWritings.map((writing, i) => (
+    sortedWritings.map((writing) => (
       <a
         href={`/writing/${writing.slug}`}
-        class="animate-fade-in-up group flex min-h-12 items-center border-t py-3 no-underline opacity-0"
-        style={`animation-delay: ${0.1 + i * 0.05}s;`}
+        class="group flex min-h-12 items-center border-t py-3 no-underline"
       >
         <span class="group-hover:text-accent flex-1 transition-colors">
           {writing.data.title}

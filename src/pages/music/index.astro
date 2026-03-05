@@ -31,17 +31,12 @@ const albums = [
 
 <Layout title="Music">
   <div class="w-full space-y-16">
-    <h1 class="animate-fade-in-up opacity-0" style="animation-delay: 0s;">
-      Music
-    </h1>
+    <h1>Music</h1>
     <section>
       <ul class="grid grid-cols-2 gap-4 md:grid-cols-3 md:gap-6">
         {
           albums.map((album, i) => (
-            <li
-              class="animate-fade-in-up opacity-0"
-              style={`animation-delay: ${0.05 + i * 0.1}s;`}
-            >
+            <li>
               <a
                 href={album.url}
                 target="_blank"

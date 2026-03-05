@@ -41,9 +41,9 @@ const { prev, next } = Astro.props;
     next ? (
       <a
         href={next.href}
-        class="group flex items-center justify-end gap-3 py-3 transition-colors md:col-start-2"
+        class="group flex flex-row-reverse items-center justify-end gap-3 py-3 transition-colors md:col-start-2 md:flex-row"
       >
-        <div class="flex flex-col items-end">
+        <div class="flex flex-col md:items-end">
           <span class="text-muted-foreground text-sm">Next</span>
           <span class="group-hover:text-accent line-clamp-1 text-base font-medium transition-colors">
             {next.label}

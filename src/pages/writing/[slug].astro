@@ -1,8 +1,9 @@
 ---
+import JanZoeng from "@/components/jan-zoeng.astro";
 import Layout from "@/layouts/layout.astro";
 import PrevNext from "@/components/ui/prev-next.astro";
-import { getWritings } from "@/lib/get-collection";
 import { getPrevNext } from "@/lib/get-prev-next";
+import { getWritings } from "@/lib/get-collection";
 
 export async function getStaticPaths() {
   const writings = await getWritings();
@@ -55,6 +56,9 @@ const { Content } = await writing.render();
       <article class="mx-auto w-full max-w-5xl">
         <div class="prose">
           <Content />
+        </div>
+        <div class="flex w-full justify-end pt-4">
+          <JanZoeng />
         </div>
       </article>
     </section>

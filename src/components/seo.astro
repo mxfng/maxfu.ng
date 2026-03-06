@@ -1,4 +1,6 @@
 ---
+import { theme } from "@/lib/theme";
+
 interface Props {
   title?: string;
   description?: string;
@@ -26,7 +28,12 @@ const pageTitle = title ? `${title} - Max Fung` : DEFAULT_TITLE;
 ---
 
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1.0, maximum-scale=1"
+/>
+<meta name="color-scheme" content="dark" />
+<meta name="theme-color" content={theme.background} />
 <meta name="description" content={description} />
 <meta property="og:type" content="website" />
 <meta property="og:title" content={pageTitle} />
@@ -47,5 +54,11 @@ const pageTitle = title ? `${title} - Max Fung` : DEFAULT_TITLE;
   as="font"
   type="font/woff2"
   crossorigin="anonymous"
+/>
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  title="Max Fung"
+  href="/rss.xml"
 />
 <title>{pageTitle}</title>

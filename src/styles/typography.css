@@ -93,4 +93,22 @@
   .prose p:has(> img:only-child) {
     @apply max-w-none;
   }
+
+  /* heading anchors */
+  .prose :is(h2, h3, h4) {
+    @apply relative;
+  }
+
+  .prose .heading-anchor {
+    @apply absolute right-full pr-0.5 no-underline opacity-0 transition-all duration-200 md:pr-2;
+    color: var(--muted-foreground);
+  }
+
+  .prose .heading-anchor:hover {
+    @apply text-foreground;
+  }
+
+  .prose :is(h2, h3, h4):hover .heading-anchor {
+    @apply opacity-100;
+  }
 }

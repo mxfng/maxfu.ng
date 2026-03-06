@@ -31,6 +31,7 @@
   --color-border: var(--border);
 }
 
+/* When changing colors, also update hex equivalents in src/lib/theme.ts */
 :root {
   --background: oklch(0.2178 0 0);
   --foreground: oklch(0.9219 0 0);
@@ -146,6 +147,12 @@
 
   .link-subtle {
     @apply text-muted-foreground hover:text-foreground transition-colors duration-200;
+  }
+
+  :focus-visible {
+    outline: 2px dotted var(--muted-foreground);
+    outline-offset: 2px;
+    border-radius: 2px;
   }
 }
 

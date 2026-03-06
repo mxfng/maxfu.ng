@@ -22,7 +22,10 @@ const { prev, next } = Astro.props;
         href={prev.href}
         class="group flex items-center gap-3 py-3 transition-colors"
       >
-        <span class="text-muted-foreground group-hover:text-accent transition-all group-hover:-translate-x-1">
+        <span
+          class="text-muted-foreground group-hover:text-accent transition-all group-hover:-translate-x-1"
+          aria-hidden="true"
+        >
           <ArrowLeft />
         </span>
         <div class="flex flex-col">
@@ -49,7 +52,10 @@ const { prev, next } = Astro.props;
             {next.label}
           </span>
         </div>
-        <span class="text-muted-foreground group-hover:text-accent transition-all group-hover:translate-x-1">
+        <span
+          class="text-muted-foreground group-hover:text-accent transition-all group-hover:translate-x-1"
+          aria-hidden="true"
+        >
           <ArrowRight />
         </span>
       </a>

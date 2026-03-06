@@ -2,13 +2,12 @@ import satori from "satori";
 import sharp from "sharp";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
+import { theme } from "./theme";
 
 const FONT_PATH = join(process.cwd(), "src/assets/fonts/Switzer-Medium.ttf");
 
 const WIDTH = 1200;
 const HEIGHT = 630;
-const BG = "#1a1a1a"; // oklch(0.2178 0 0) — var(--background)
-const FG = "#e5e5e5"; // oklch(0.9219 0 0) — var(--foreground)
 const FONT_SIZE = 96; // Default site title
 const FONT_SIZE_RATIO_DEFAULT = 1.15; // Multiplies FONT_SIZE for default og image
 const FONT_SIZE_RATIO_NAME = 2; // Divides FONT_SIZE for name underneath content titles
@@ -25,7 +24,7 @@ export async function generateOgImage(title?: string) {
         style: {
           fontSize: FONT_SIZE,
           fontWeight: 500,
-          color: FG,
+          color: theme.foreground,
           lineHeight: 1.15,
           letterSpacing: "-0.03em",
         },
@@ -42,7 +41,7 @@ export async function generateOgImage(title?: string) {
           ? FONT_SIZE / FONT_SIZE_RATIO_NAME
           : FONT_SIZE * FONT_SIZE_RATIO_DEFAULT,
         fontWeight: 500,
-        color: FG,
+        color: theme.foreground,
         letterSpacing: "-0.03em",
       },
       children: "Max Fung",
@@ -61,7 +60,7 @@ export async function generateOgImage(title?: string) {
           justifyContent: "flex-end",
           gap: title ? "40px" : "0",
           padding: "80px",
-          backgroundColor: BG,
+          backgroundColor: theme.background,
           fontFamily: "Switzer",
         },
         children,

@@ -20,28 +20,28 @@
   }
 
   .prose h1 {
-    @apply mb-4;
+    margin-bottom: 1.2em;
   }
 
   .prose h2 {
-    @apply mt-10 mb-4;
+    margin-top: 2.6em;
+    margin-bottom: 1em;
   }
 
   .prose h3 {
-    @apply mt-8 mb-2;
+    margin-top: 2.1em;
+    margin-bottom: 0.8em;
   }
 
   .prose h4 {
-    @apply mt-6 mb-2;
+    margin-top: 2em;
+    margin-bottom: 0.65em;
   }
 
   .prose p {
-    @apply my-5 leading-loose;
-  }
-
-  .prose p + h1,
-  .prose p + h2 {
-    @apply mt-16;
+    @apply leading-loose;
+    margin-top: 1.6em;
+    margin-bottom: 1.6em;
   }
 
   .prose ul,
@@ -93,6 +93,11 @@
 
   .prose p:has(> img:only-child) {
     @apply max-w-none;
+  }
+
+  /* jan zoeng seal positioning */
+  .prose > div:last-child {
+    @apply flex justify-end pt-12;
   }
 
   /* heading anchors */

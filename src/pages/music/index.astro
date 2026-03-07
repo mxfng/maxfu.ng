@@ -1,9 +1,14 @@
 ---
 import Layout from "@/layouts/layout.astro";
 import { Image } from "astro:assets";
+import WritingTable from "@/components/writing/writing-table.astro";
+import { getWritings } from "@/lib/get-collection";
 import coverLotus from "@/assets/images/cover-lotus.png";
 import coverBlueMoon from "@/assets/images/cover-blue-moon.jpg";
 const GRID_COLS = 2;
+
+const writings = await getWritings();
+const musicWritings = writings.filter((w) => w.data.music);
 
 const videos = [
   {
@@ -123,5 +128,13 @@ const albums = [
         }
       </ul>
     </section>
+    {
+      musicWritings.length > 0 && (
+        <section class="space-y-6">
+          <h2>Updates</h2>
+          <WritingTable writings={musicWritings} />
+        </section>
+      )
+    }
   </div>
 </Layout>

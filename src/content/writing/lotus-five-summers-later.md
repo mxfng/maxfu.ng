@@ -2,6 +2,7 @@
 title: "Lotus: Five Summers Later"
 description: "Reflecting on my first solo EP after five years."
 date: "2024-07-04T08:00:00-07:00"
+music: true
 image: "/og/lotus-five-summers-later.jpg"
 ---
 

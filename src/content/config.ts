@@ -8,6 +8,7 @@ const writingCollection = defineCollection({
     date: z.string().transform((str) => new Date(str)),
     image: z.string().optional(),
     draft: z.boolean().optional(),
+    music: z.boolean().optional(),
   }),
 });
 

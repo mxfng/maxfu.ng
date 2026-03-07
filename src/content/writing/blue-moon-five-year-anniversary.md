@@ -2,6 +2,7 @@
 title: "Blue Moon: Five Year Anniversary"
 description: "Late nights in Playa del Rey and the creative freedom that shaped my second EP."
 date: "2025-12-11T08:00:00-08:00"
+music: true
 image: "/og/blue-moon-five-year-anniversary.jpg"
 ---
 

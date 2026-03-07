@@ -109,6 +109,6 @@ Maybe there's a lesson for me to learn somewhere in all this chaos. That I shoul
 
 Drumhaus started as a curiosity about what was possible in a browser. v1 is an answer: more than I expected.
 
-[See it live](https://drumha.us)
+[See it live at drumha.us](https://drumha.us)
 
 [Drumhaus source](https://github.com/mxfng/drumhaus)

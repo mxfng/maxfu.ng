@@ -31,13 +31,23 @@ Each piece of media proved to be its own adventure. For the Smoke music video, w
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/O2LMWKSoY6U" frameborder="0" allowfullscreen title="Max Fung - Anything (Trailer)" loading="lazy"></iframe>
 
+Two summers before Lotus, I met somebody who would change my life forever. We spent that entire summer together in each other's arms, sharing love, laughter, and a connection of unparalleled intimacy. We told each other our deepest thoughts and darkest secrets. These moments I experienced with her have left an impression on me that I will never be able to shed. I'll cherish that experience, for what it was, forever. But forever doesn't change the fact that things do always change, people will change, and the songs we sing change with them. It was much harder to let her go than I'd ever imagined letting go could be. I spent many nights exhausted by the emptiness her absence left. And on many early mornings, I was awakened by sounds of her voice and dreams of what we used to share together. I still remember all the places we went, all the things that mattered so much in that time. "Anything" was an attempt to escape the past I was trapping myself in. This is what was left of my world in that moment.
+
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/6UeD57wDPZc" frameborder="0" allowfullscreen title="Max Fung - Sweet Dreams (Trailer)" loading="lazy"></iframe>
 
-The concept behind the title for Lotus is extremely relevant to my life. One evening, during meditation, my mother envisioned herself diving into a lotus pond and retrieving a child from the mud. Soon after this, she was gifted her first baby, and to this day swears that she found my soul in that pond.
+When I worked on the beat for Sweet Dreams for the first time, I was tracking guitar with two other artists in the room, vibing. The loop was peaceful enough to put one of them to sleep, and it was here that the title was born. The beat sat dormant in my hard drive for months, until one day I felt inspired to include it on Lotus as the closing track for the EP. As I began writing lyrics, I remembered the lullabies my mother used to sing before bed when I was really little. A lyric that stuck with me in particular was from her rendition of "Dream A Little Dream of Me." From this place, I wanted to recreate a similar feeling of inner peace and serenity.
+
+Sweet Dreams is the crescendo of the bloom; it is the self-realization and personal acceptance that took place in my life during its conception. It is a nod to the self-love, joy, and excitement I created for myself out of a place of darkness and doubt. At its core, it's a song about loving and being at peace in oneself. In its truest form, it is the end of the lotus' journey.
+
+Special thanks to [Isabel Rist](https://www.isabelrist.com/) for her amazing photo work and for donating her family pool and a big palm leaf from her family tree, Nathan Burhans for support work during filming, Jake for shooting behind the scenes, Vince Vu for mixing, Carlos for curating the EP, and my mother for additional songwriting on this track. Without you all, this song and visual would not have been possible.
 
 ![Field promotional portrait](../../assets/writing/lotus-five-summers-later/field-promotional-portrait.webp)
 
 ![Desert shoot for Smoke](../../assets/writing/lotus-five-summers-later/desert-shoot-for-smoke.webp)
+
+Lotus, to me, is a collection of songs that authentically describe my own self-discovery and rebirth of my passion for music and life after a tumultuous relationship and deep depression. The lotus grows out from the mud at the bottom of the pond, seeking the light at the surface, to eventually bloom for a day or two at a very specific time of year.
+
+The concept behind the title is extremely relevant to my life. One evening, during meditation, my mother envisioned herself diving into a lotus pond and retrieving a child from the mud. Soon after this, she was gifted her first baby, and to this day swears that she found my soul in that pond.
 
 The lotus flower is held sacred by many people throughout the world. To me it stands as a symbol for rebirth and enlightenment. Once you give it a listen, I hope that it will mean something special to you too.
 

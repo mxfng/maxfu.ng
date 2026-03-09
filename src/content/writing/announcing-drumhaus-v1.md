@@ -107,6 +107,14 @@ Which is hilarious, because I then proceeded to immediately sprint for five week
 
 Maybe there's a lesson for me to learn somewhere in all this chaos. That I should lean into my strengths, and worry less about perfecting the routine. That I can build discipline by returning to something I've already built, something I believed in, and finishing what I started. I rewrote systems I'd written two years prior with two more years of experience. I could feel it in the architecture, in the ergonomics of the code, in the details I now had the skill to get right. There's a particular kind of satisfaction in building the thing you couldn't build before.
 
+I also learned that building with heart will always outshine building for an outcome. Drumhaus was never a great business idea. But people are hungry for things that were built to share genuine joy, and when you make something like that and put it out into the world, it finds its audience.
+
+> A work is never truly completed, but abandoned.
+>
+> <cite>[Paul Valéry](https://en.wikipedia.org/wiki/Paul_Val%C3%A9ry)</cite>
+
+I used to be anxious when I put something down that that was the end of it. The reality is, the things worth making will get made. Time creates clarity. The ideas worth returning to, you inevitably will, and the others are worth discarding.
+
 Drumhaus started as a curiosity about what was possible in a browser. v1 is an answer: more than I expected.
 
 [See it live at drumha.us](https://drumha.us)

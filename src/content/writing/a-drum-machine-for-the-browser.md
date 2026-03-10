@@ -44,6 +44,10 @@ I wanted each voice to have a corresponding waveform so users could see that eac
 
 ![Channel detail](../../assets/writing/a-drum-machine-for-the-browser/channel-detail.webp)
 
+## The kits
+
+The ten kits — 808, Organic, Studio, Hybrid, Bounce, Eighties, House, Techno, Trap, Jungle — each came from somewhere. The 808 kit was sampled off tape recordings of a real TR-808. Organic came from LA producer Dylan Kidd's sticks and stones sampling work, also available on Splice. Bounce was built around the Parliament Funkadelic and Zapp & Roger flavor of West Coast lowrider funk I grew up with in Southern California. Techno was a souvenir from a night at De School in Amsterdam, from a European trip I'd just come off. Hybrid was assembled to recreate the drum pattern on Frank Ocean's Super Rich Kids — a deceptively simple beat off Channel Orange that I've always loved.
+
 ## Eight weeks
 
 All in all, I worked furiously for about eight weeks and cobbled together a working product. The instrument had eight voices, A and B sequences, 10 kits with 10 presets, and plenty of sound-shaping parameters. I pulled samples from my production library, from producer friends, and from Splice. It wasn't exactly what I'd originally envisioned — there were features I'd hoped to build but didn't have the skill for — but it worked, and it was fun.

@@ -4,24 +4,58 @@ description: "Building a browser-native drum machine with Tone.js and the Web Au
 date: "2025-03-20T08:00:00-07:00"
 ---
 
-I started Drumhaus back in 2023 between jobs. I'd been working as a software engineer and producing music for most of my life, and I always wanted to dabble in DSP (digital signal processing) and product design for instruments. My goal was to build a project that merged coding and music, since that wasn't part of any day job I'd worked. Eventually that grew into a goal of re-imagining the classic hardware drum machine through the lens of modern web technologies. The drum machine platform felt approachable enough — pick a number of voices and a sequencer and you're building within reasonable constraints.
+I've been producing music for most of my life and writing software professionally for a handful of years, and the two had never once intersected. None of my day jobs touched audio, and none of my music involved code. Drumhaus was an attempt to change that — to re-imagine the classic hardware drum machine through the lens of modern web technologies.
+
+I started building it in 2023, between jobs, with time to burn and a lot to prove to myself. The drum machine felt like an approachable platform. Define your voices, build a sequencer, and you're working within reasonable constraints. The scope was narrow enough to ship, but deep enough to learn something real.
+
+## Finding the reference point
+
+Early on, I discovered [io-808](https://io808.com/), a fully recreated TR-808 built with web audio by Vincent Riemer, an engineer at Meta. I watched his talks at audio tech conferences and was blown away by the depth of the implementation. It became the foundational inspiration for Drumhaus. I wasn't going to match that level of DSP work — I knew that going in — but I could build my own take on the concept.
+
+## Design first
+
+I tend to get more motivated by the user experience side of a product than the technical. Really good design inspiration is what gets me coding. So I started with the look and feel: the layout, the branding, the vibe.
+
+I had a Bauhaus poster in my room, orange with repeating geometric patterns. I swapped the _Bau_ for _Drum_, and Drumhaus had its name. I'd always been drawn to bespoke European craftsmanship — Reason Studios and their instruments, Malström, Thor, that whole aesthetic. Drumhaus fit right into that lineage. It felt vaguely tongue-in-cheek — a little pretentious, but not trying too hard. Vaguely international, even if it was just an American making beats in his apartment. A strong gut feeling I never questioned afterward. I spent time studying the design of physical hardware I admired, and the Bauhaus school more broadly — functional, future-forward design, products reduced to their essential form. The interface draws playful inspiration from the classic Roland TR-909 and the skeuomorphic aesthetics of VST instruments.
 
 ![Drumhaus interface](../../assets/writing/a-drum-machine-for-the-browser/drumhaus-interface.webp)
 
-I did some research and discovered [io-808](https://io808.com/), a fully recreated TR-808 built with web audio by Vincent Riemer, an engineer at Meta. This stuff was hardcore. I saw some of his speaking engagements at audio tech conferences. His work served as the foundational inspiration for my project, and I was set on building my own with a twist.
+## Scope and surrender
 
-I often get more motivated to build a product from the user experience side instead of the technical. I envisioned what Drumhaus would look and feel like, what the layout would be. I imagined the branding. Branding always gets me more excited. I had a Bauhaus poster in my room. It was orange and had repeating geometric patterns on it that I liked. So I swapped the _Bau_ for _Drum_, and Drumhaus was born. Bauhaus inspiration runs deeper in the product vision here, and I spent a lot of time studying the design of physical hardware I admired, as well as general Bauhaus philosophy. Functional, future-forward design. Reducing products to their most essential form and essence. The user interface takes playful inspiration from the classic Roland TR-909 and the skeuomorphic designs of VST instruments.
+Going in, I'd barely touched any DSP. Tone.js and the Web Audio API were brand new to me. I'd been coasting in my first big role, and outside of Native Android, Python, and Rails, modern frontend was foreign territory. I'd just wired up my first React-based website before starting this project.
 
-![Sequencer in action](../../assets/writing/a-drum-machine-for-the-browser/sequencer-in-action.webp)
+My first real mistake was trying to build the audio engine from scratch, the way Vincent had. I attempted my own sequencer with the raw Web Audio API, and it proved too difficult. Pivoting to [Tone.js](https://tonejs.github.io/) saved the project. It handled the foundational scheduling out of the box, which meant I could focus on integrating the pieces through abstraction rather than fighting a solved problem.
 
-On the first pass, I'd barely touched any React code or DSP. I had no idea how to handle state management. Tone.js and the Web Audio API were brand new to me. But the idea of making beats in the browser seemed really fun.
+## The knobs
 
-I first made the mistake of trying to do it from "scratch" like Vincent did. He was a very experienced engineer. I was out of my depth. I attempted to build my own audio clock in JavaScript to manage scheduling, and that proved to be too difficult a task. That was when I pivoted to [Tone.js](https://tonejs.github.io/), where these foundational elements were handled out of the box. This was a great pivot that saved the project for me. I could worry less about the deeper aspects of DSP, a new subject to me, and instead focus more on the integration of various elements through abstraction.
+One thing I did build from scratch was the knobs. Nothing I found online felt right. I wanted knobs that felt like the ones in Logic Pro's native VSTs, and I was unwilling to settle.
 
-I worked furiously for a few weeks and cobbled together a nice little working product. It had eight voices, A and B sequences, 10 kits with 10 presets, and lots of sound shaping parameters the user could edit. It also allowed users to save, load, and share their work as a link. It wasn't exactly as perfect as I originally envisioned, but it worked and was a lot of fun to play with.
+I used Framer Motion to transform cursor position into rotational values on screen, then mapped those rotations to audio parameters. Some knobs needed logarithmic responses for frequency ranges dealing in Hz. Others used split inputs, where one half of the rotational range maps to a different output than the other. I worked each problem out one by one until I had a knob I was satisfied with. They feel good on desktop. There's some jank when twisting them aggressively during playback on heavier beats — something I'll come back to.
+
+## Learning by misuse
+
+I picked Next.js because it was popular, not because I understood what I was choosing. Same with Chakra UI — I didn't know what component libraries were for. I'd borrowed the pattern from an open-source project I'd been studying while trying to learn frontend development.
+
+I misused the hell out of Chakra, custom-styling everything with Emotion until the components were unrecognizable. A headless library or custom components would've been the right call for most of the UI that shipped. But every bad decision taught me something I now use daily. The whole project is full of questionable dependencies and janky code choices that I wouldn't trade for a cleaner architecture, because those mistakes are where the real education happened.
+
+## Giving it a voice
+
+I wanted each voice to have a corresponding waveform so users could see that each cell in the grid is its own unique sound. I wrote a Python script with librosa to generate waveforms for each sample, adding visual context to the interface. There's a pixel, LED-like aesthetic running through the UI — shared between the waveforms and the frequency analyzer — that ties the whole thing together.
 
 ![Channel detail](../../assets/writing/a-drum-machine-for-the-browser/channel-detail.webp)
 
-This was a personal attempt to fuse code and creativity, and to build something I wish had existed when I first started making music.
+## Eight weeks
 
-[See it live at drumha.us](https://drumhaus.maxfu.ng/)
+All in all, I worked furiously for about eight weeks and cobbled together a working product. The instrument had eight voices, A and B sequences, 10 kits with 10 presets, and plenty of sound-shaping parameters. I pulled samples from my production library, from producer friends, and from Splice. It wasn't exactly what I'd originally envisioned — there were features I'd hoped to build but didn't have the skill for — but it worked, and it was fun.
+
+A Postgres backend stored shared presets anonymously, so users could save their work and share it as a generated link. Sharing mattered to me. I wanted a social dimension — the idea of making something quick, sending it to a friend, and letting them discover the product organically. With the database, I could browse shared presets and hear what people were making.
+
+![Sequencer in action](../../assets/writing/a-drum-machine-for-the-browser/sequencer-in-action.webp)
+
+## Finding an audience
+
+I shared it on Reddit, and it took off. Over a hundred shared beats appeared from that first post alone. The project got picked up organically — it ended up on awesome lists and search indexes, and thousands of people made beats with it. Some of those shared URLs are still being indexed by Google today. Then life pulled me away for a while, but Drumhaus kept quietly finding new users on its own.
+
+I don't think I expected that. What started as a scrappy eight-week experiment by someone who barely knew React became something with real users and a life of its own. Drumhaus was built because I wanted it to exist, and it turns out other people did too.
+
+[See it live at drumha.us](https://drumha.us/)

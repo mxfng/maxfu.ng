@@ -7,7 +7,7 @@ image: "/og/harmony-exploring-logo-design.jpg"
 
 While designing this site, I knew I wanted a bold visual motif—something personally meaningful, graphically striking, and conceptually rich. It became a chance to reconnect with my design background and experiment with visual symbolism.
 
-## The Inspiration
+## The inspiration
 
 I’ve always been drawn to the peace symbol—its roots in the anti-war and countercultural movements of the 1960s and ’70s, and its original design by Gerald Holtom for the 1958 Campaign for Nuclear Disarmament. Built from the semaphore signals for “N” and “D,” it’s a piece of protest art that became universal. Over time, it’s come to represent a broader ethos: nonviolence, resistance, solidarity.
 
@@ -23,7 +23,7 @@ From one idea—the original peace symbol—two new ideas emerged: visibly conne
 
 ![Harmony Logo Design](../../assets/writing/harmony-exploring-logo-design/outlines.png)
 
-## Design Theory
+## Design theory
 
 At one point, I considered adjusting the core’s position within the triangle. The thinness at the top made the center feel visually unbalanced. But after experimenting with different alignments, I decided against changing it. These symbols weren’t designed to be perfectly composed in isolation, but as part of a larger whole. Displayed together, it made sense to keep the cores identical—to reinforce continuity.
 
@@ -43,7 +43,7 @@ To validate the spacing, I created a geometric trick: I drew two parallel lines�
 
 To my surprise, my manual kerning matched the proportion exactly. That confirmation felt great. Applying these design principles elevated the idea into something elegant—and I’m really proud of it.
 
-## Animation: Bringing It Together
+## Animation: bringing it together
 
 While showing the designs to my girlfriend, I flipped through them rapidly to illustrate how the shapes morph around the core. We looked at each other and immediately thought: this should be animated.
 
@@ -57,7 +57,7 @@ Initially, I hit performance issues. I’d exported logos from artboards over a 
 
 Each path is animated separately, grouped by region, and layered together using Motion. With spring-based easing functions, the result is smooth and organic. This animation now greets users on the homepage, introducing my brand and philosophy in a living, dynamic way.
 
-## A Logo is Born
+## A logo is born
 
 I call this piece _Harmony_. It reminds me of how musical notes come together to form something greater than any one note. In the same way, these forms—circle, triangle, square—combine to elevate the classic message of peace into something distinctively mine.
 

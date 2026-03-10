@@ -8,13 +8,13 @@ Growing up in Southern California with a deep love for art, music, and culture, 
 
 I grew up taking trips into the city, falling in love with [LACMA](https://www.lacma.org/), the [Natural History Museum](https://nhm.org/), the [California Science Center](https://californiasciencecenter.org/), and countless other institutions that gave LA its distinct sense of place. To me, LA was a beacon. A global, artistic capital unlike anywhere else I had seen.
 
-## College as a Purveyor of Good Urbanism
+## College as a purveyor of good urbanism
 
 When I was accepted into Loyola Marymount University, I was thrilled. Finally, I would get to live in the city I had always romanticized. LMU, perched on a bluff overlooking the west side of Los Angeles, felt like a miniature utopia. Compact and walkable, filled with classical Spanish architecture, vast green lawns, and beautiful gardens, it was truly a lovely place to spend four years of my life.
 
 It was also, in retrospect, a rare taste of good urban design. It's funny how college is often the sole experience Americans can get to live in a truly walkable environment. I'll never forget the serendipity of running into friends on campus, walking to dorms or off-campus houses, and feeling like community was around every corner. For me, it was an environment where belonging was effortless, where social interaction was the default, not the exception. I made many friends by simply existing in these spaces, moving through the halls and walkways, attending my classes.
 
-## Serendipity With a Side of Europe
+## Serendipity with a side of Europe
 
 In 2018, I was fortunate to take a trip to Europe. I visited Berlin and Helsinki, and I remember not wanting to come home. I didn't understand why at the time, but something about those places felt radically different.
 
@@ -28,7 +28,7 @@ In Helsinki, it was the dignity of the everyday. Streets were calm. Trams glided
 
 I watched a group of Russian street musicians perform in one of the squares. They were members of the St. Petersburg classical tradition—maybe even from the Philharmonic—and played with warmth and grace. They chatted with me afterward, telling stories of their travels across Europe, performing in public spaces, bringing culture to wherever they went. It reminded me of the social serendipity I’d experienced at my college campus.
 
-## A Grueling Commute
+## A grueling commute
 
 The pandemic hit in 2020. I graduated shortly after and moved back home to Thousand Oaks out of necessity. I landed a job in El Segundo, and for the next six months, I endured a brutal commute up and down the 405 freeway. It drained every last drop of soul I had left in me. The traffic, the monotony, the constant stress... Day in and day out, I could feel my nervous system was getting fried.
 
@@ -40,7 +40,7 @@ Eventually, I'd had enough. With some savings from work, I moved back to LA, hop
 
 It seemed like a great move. I'd be closer to work, and I'd get to live in a more urbanized part of town. But what I didn't realize at the time was just how much that stretch of Venice Blvd would radicalize me.
 
-## The Inequity of Arterial Roads
+## The inequity of arterial roads
 
 Unless you’ve lived on a street like Venice Boulevard, it’s hard to explain the low-level anxiety that comes from being steps away from a high-speed arterial. The constant hum of traffic becomes the backdrop to your life. Brake dust and exhaust settle on your porch furniture, seep through the windows. The asphalt radiates heat in the summer, relieved only slightly by a few aging trees stubbornly holding their ground.
 
@@ -58,7 +58,7 @@ My neighbors were mostly poor immigrants. The multi-generation family across the
 
 That thought haunted me. This wasn’t just a personal discomfort. It was a systemic cruelty. This whole street was full of families like theirs. People who lived and died to the soundtrack of engines, to the smell of exhaust. Who bore the brunt of pollution and noise so others could preserve their peace and property values just one block over.
 
-## Death by a Million Tailpipes
+## Death by a million tailpipes
 
 Los Angeles remains the city with the worst ozone pollution in the country. This is due to a combination of factors, but very notably because of the sheer number of cars on the road everyday, combined with a lack of rainfall, that allows ozone and fine particulate pollution to pile up over time.
 
@@ -78,7 +78,7 @@ Drivers cruised past in their air-conditioned cars, windows up, sealed off from 
 
 That's the cruelty of Los Angeles: comfort is carefully gated. Clean air is reserved. Quiet is zoned. Everyone else is left breathing in the fumes. Death by a million tailpipes.
 
-## Arterial Dynamism in Los Angeles
+## Arterial dynamism in Los Angeles
 
 Los Angeles—like so many American cities—has a long history of treating poor neighborhoods as disposable. First as dumping grounds for pollution and freeways. Now, as testing grounds for new waves of development. The logic hasn’t changed, only the language. We still build for those with power, and we still do it on the backs of those without.
 
@@ -96,7 +96,7 @@ Despite the improvements, many drivers dismissed or ignored the changes. Some ne
 
 Still, learning about the project sparked a curiosity in me that was truly a turning point for my politics. For a brief moment, this street asked a question rarely posed in LA: what if a street wasn't just for cars?
 
-## Finding the Words
+## Finding the words
 
 Years later, the memories of college life and my European trip started to resurface. In 2022, I stumbled upon videos from a creator called Not Just Bikes, a Canadian living in the Netherlands, explaining in detail why Dutch cities felt better. I went deep down the rabbit hole. I learned about zoning, street design, traffic calming, induced demand, the history of American suburbanization. I started to understand why my life in LA felt so fragmented, so anxious, so solitary. I started to see that what I had experienced abroad wasn't a fluke, it was the result of intentional design choices.
 

@@ -13,7 +13,7 @@ Neglect felt central to the condition of the place. A bitter, visual poverty cre
 
 A vibrant patchwork of street vendors lined the surrounding walkways of the neighborhood, huddled beneath makeshift tents that sag and fade in the sun. They were selling a cacophony of goods, of varying quality and mysterious origin. Their patrons form a mosaic of Los Angeles' overlooked — immigrants, many from across Latin America. The children of those immigrants, American born citizens. Day laborers. The unhoused, and those teetering on the edge of it. Some bear the grime of hard living — dirt ground into their palms and under their nails. Their faces and expressions bear an uncanny resemblance to their surroundings: weary yet resilient, etched with the quiet endurance of life on the city's margins.
 
-## Los Angeles Had Its Champs-Élysées
+## Los Angeles had its Champs-Élysées
 
 We cannot grasp the depth of MacArthur Park's decline without first understanding the height from which it fell. To see only its decay is to miss its former promise — the dream it once embodied, the civic optimism that shaped its creation. Remembering the essence of what this place was imagined to be helps to magnify the despair of its decline; it reveals the dissonance between the city's past ambitions and its present neglect.
 
@@ -23,7 +23,7 @@ It was, for a time, a public resort in everything but name. On Sundays, musician
 
 The streets around the lake advertised a new vision for Los Angeles — dense, stylish, and deliberately cosmopolitan. Streetcars ran straight into the park, turning a fashionable address into a truly public stage. The neighborhood was brimming with apartment facades in Queen Anne and Beaux-Arts dress; elegant mansions and palm-lined promenades. Across Wilshire — which at the time ended at the park's edge — Harrison Gray Otis's bequest seeded the Otis Art Institute, anchoring the district's cultural gravity. A block away, the Westlake Theatre opened in 1926 with nearly two thousand seats and a Spanish-Baroque flourish. At the time, guidebooks and newspapers weren't shy about the comparison: Westlake was the Champs-Élysées of Los Angeles — a place where elegance and grandeur sat front and center in civic life, if only for a brief moment in history.
 
-## The Parasite of Sprawl
+## The parasite of sprawl
 
 <!-- NOTES:
 - The Wilshire Blvd extension is the central metaphor here. In Dec 1934, city chose the cheapest option: a "land-fill" causeway that bisected the lake and park with a "river of concrete" ($93,000).
@@ -48,7 +48,7 @@ From convo 2:
 - Post-1950s decline driven by suburbanization, freeway construction, and redlining draining investment from central LA. MacArthur Park stigmatized for poverty and crime by the 1980s.
 -->
 
-## Alienation and the Automobile
+## Alienation and the automobile
 
 <!-- NOTES:
 - Tie Marx's concept of alienation to LA's built form — the automobile turned Angelenos into isolated atoms.
@@ -82,7 +82,7 @@ Salvageable lines from cut sections (use if they fit the new closing):
 - Westlake today is still dense and vibrant — largely Central American and working-class — but worlds apart from its old reputation. Continuity of place even as identity transforms.
 -->
 
-## Reference Conversations
+## Reference conversations
 
 <https://chatgpt.com/c/690fb086-0f68-8329-8cf6-513fd69c37d6>
 
@@ -90,23 +90,23 @@ Salvageable lines from cut sections (use if they fit the new closing):
 
 <!-- WRITING NOTES:
 
-## Tense Strategy
+## Tense strategy
 - Opening paragraph: present perfect → simple past (reflection into discovery)
 - Observation paragraphs: present tense describes a STATE OF BEING, not an event — "telling the user a story they are currently experiencing, describing a vibe, a texture, a place"
 - History section: simple past throughout (recounting what was)
 - The temporal blend — reflection, memory, immediacy — is intentional
 
-## Structural Pattern
+## Structural pattern
 - The opening alternates between the lake and the neighborhood (micro → macro)
 - Section 1 (Champs-Élysées) mirrors this: park beauty → civic life → neighborhood grandeur
 - Think: wide shot → medium shot → close-up, then reverse
 
-## Paragraph Length
+## Paragraph length
 - Aim for 5-8 sentences, book-like density over chatbot brevity
 - Varying length creates rhythm: long paragraphs pull in, short ones land emotional hits
 - Each paragraph completes a single visual or emotional idea
 
-## Key Sources
+## Key sources
 - Hadley Meares, "MacArthur Park's glory days" (Curbed LA, Jan 19 2018) — primary historical source, be careful not to echo her cadence
 - Jose A. Gardea, "MacArthur Park (Images of America)" — "destination park" vs "drive-through park"
 - Bell Sumner Angier, 1903 — "of all the parks in Los Angeles, there is none better loved by the people than Westlake"
@@ -115,7 +115,7 @@ Salvageable lines from cut sections (use if they fit the new closing):
 - LA Times 1931 — editorialized for Wilshire extension
 - The boathouse was Victorian (1894, three-story), NOT Mediterranean
 
-## Essay Arc
+## Essay arc
 0. MacArthur Park Now (written) — emotional thesis, the still frame. Here is a wound.
 1. Los Angeles Had Its Champs-Élysées (written) — the height from which it fell. Here is what stood before it.
 2. The Parasite of Sprawl — Wilshire extension as turning point, suburbanization. Here is how the wound was made.

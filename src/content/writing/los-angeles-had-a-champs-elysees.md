@@ -1,6 +1,6 @@
 ---
 title: "Los Angeles Had a Champs-Élysées"
-categories: ["urbanism"]
+description: ""
 date: "2025-11-08T13:00:00-07:00"
 draft: true
 ---
@@ -15,15 +15,15 @@ A vibrant patchwork of street vendors lined the surrounding walkways of the neig
 
 ## Los Angeles had its Champs-Élysées
 
-We cannot grasp the depth of MacArthur Park's decline without first understanding the height from which it fell. To see only its decay is to miss its former promise — the dream it once embodied, the civic optimism that shaped its creation. Remembering the essence of what this place was imagined to be helps to magnify the despair of its decline; it reveals the dissonance between the city's past ambitions and its present neglect.
-
-Around the turn of the century, MacArthur Park — then known as "Westlake Park" — was the crown jewel of a young city. Once a swampy, unclaimed stretch of land, it was dedicated to the public and eventually transformed into a sanctuary, modeled after the great urban parks of the East Coast and Europe. Its lake, fed by fresh water, reflected rows of imported palms and the carved facades of elegant boathouses built in the fashionable styles of the day. Along its edges, flowering shrubs framed curving promenades and walking paths. At the water's edge, sailboats glided across the lake and horse-drawn buggies traced slow circuits through the park's shaded driveways.
+Around the turn of the century, MacArthur Park — then known as "Westlake Park" — was the crown jewel of a young city. Once a swampy, unclaimed stretch of land, it was dedicated to the public and eventually transformed into a sanctuary, modeled after the great urban parks of the East Coast and Europe. Its lake, fed by fresh water, reflected rows of imported palms and the carved facades of elegant boathouses. Along its edges, flowering shrubs framed curving promenades and walking paths. At the water's edge, sailboats glided across the lake and horse-drawn buggies traced slow circuits through the park's shaded driveways.
 
 It was, for a time, a public resort in everything but name. On Sundays, musicians performed in the band shell as crowds in fine hats and parasols gathered along the shore to listen and dance. Boating was a civic pastime. Angelenos from all across the city rented rowboats, canoes, and small sailboats to glide across the mirrored water. Many boathouses were built, the grandest of them boasting a sweeping staircase that descended to the waterline like a seaside hotel. Bell Sumner Angier wrote in 1903 that "of all the parks in Los Angeles, there is none better loved by the people than Westlake." Local papers called it "the most popular open-air resort in the city," and by 1910 it drew more than half a million visitors each year.
 
-The streets around the lake advertised a new vision for Los Angeles — dense, stylish, and deliberately cosmopolitan. Streetcars ran straight into the park, turning a fashionable address into a truly public stage. The neighborhood was brimming with apartment facades in Queen Anne and Beaux-Arts dress; elegant mansions and palm-lined promenades. Across Wilshire — which at the time ended at the park's edge — Harrison Gray Otis's bequest seeded the Otis Art Institute, anchoring the district's cultural gravity. A block away, the Westlake Theatre opened in 1926 with nearly two thousand seats and a Spanish-Baroque flourish. At the time, guidebooks and newspapers weren't shy about the comparison: Westlake was the Champs-Élysées of Los Angeles — a place where elegance and grandeur sat front and center in civic life, if only for a brief moment in history.
+The streets around the lake advertised a new vision for Los Angeles — dense, stylish, and deliberately cosmopolitan. Streetcars ran straight into the park, turning a fashionable address into a truly public stage. The neighborhood was brimming with apartment facades in Queen Anne and Beaux-Arts dress; elegant mansions and palm-lined promenades. Across Wilshire — which at the time ended at the park's edge — Harrison Gray Otis's bequest seeded the Otis Art Institute, anchoring the district's cultural gravity. A block away, the Westlake Theatre opened in 1926 with nearly two thousand seats and a Spanish-Baroque flourish. At the time, guidebooks and newspapers weren't shy about the comparison: Westlake was the Champs-Élysées of Los Angeles — a place where elegance and grandeur sat front and center in civic life.
 
 ## The parasite of sprawl
+
+The parasite. What is it parasitizing? By nature, it takes. It damages its host. It's reductive, dirty, cheap.
 
 <!-- NOTES:
 - The Wilshire Blvd extension is the central metaphor here. In Dec 1934, city chose the cheapest option: a "land-fill" causeway that bisected the lake and park with a "river of concrete" ($93,000).

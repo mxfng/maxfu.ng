@@ -32,14 +32,6 @@ Structure:
 Differentiation: lean on details NOT in the Nathan Masters PBS article — the Bryson filling in two days, H.G. Wilshire as wealthy socialist, the Patton land swap, Houdini's jump, Iowa picnics at 100K people. Use newspaper quotes from the Herald (1888-1890) instead of the same Angier/Lummis quotes every article uses.
 -->
 
-Around the turn of the century, MacArthur Park — then known as "Westlake Park" — was the crown jewel of a young city. What started as a swampy, unclaimed stretch of land was dedicated to the public by an up and coming city, and eventually transformed into a sanctuary modeled after the great urban parks of the East Coast and Europe. The lake, fed by fresh water, reflected rows of imported palms and the carved facades of elegant boathouses. Along its edges, flowering shrubs framed curving promenades and walking paths. Sailboats glided across the water and horse-drawn buggies traced slow circuits along shaded driveways.
-
-This place was a public resort in everything but name. Each Sunday, musicians performed live in a grand band shell, as crowds in fine hats and parasols gathered along the shore to listen and dance. Boating was a civic pastime: residents from all across the city gathered and rented vessels to glide across the mirrored water. Boathouses were constructed, the grandest of them boasting a sweeping staircase that descended to the waterline like a seaside hotel. By 1910, the park drew more than half a million visitors yearly.
-
-"Of all the parks in Los Angeles, there is none better loved by the people than Westlake."
-
-The streets around the lake advertised a new vision for Los Angeles — dense, stylish, and deliberately cosmopolitan. Streetcars ran straight into the park, turning a fashionable address into a truly public stage. The neighborhood was brimming with apartment facades in Queen Anne and Beaux-Arts dress; elegant mansions and palm-lined promenades. Across Wilshire — which at the time ended at the park's edge — Harrison Gray Otis's bequest seeded the Otis Art Institute, anchoring the district's cultural gravity. A block away, the Westlake Theatre opened in 1926 with nearly two thousand seats and a Spanish-Baroque flourish. At the time, guidebooks and newspapers weren't shy about the comparison: Westlake was the Champs-Élysées of Los Angeles — a place where elegance and grandeur sat front and center in civic life.
-
 ## What we do to beautiful things
 
 <!-- SECTION PLAN:

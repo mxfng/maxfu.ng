@@ -34,18 +34,39 @@ During my second internship, I spent so much time Googling information, syntax, 
 ---
 
 — SECTION TWO NOTES —
-the pivot: "I wanted in" meets reality. first real jobs. sitting at tables with VCs and CEOs. the gap between what you believed the industry was and what it actually turned out to be. this is where the tone shifts from wonder to grief.
 
-the class argument: the people building tech are a specific class — engineers, managers, capital owners — whose relationship with computers is so different from ordinary people that they've lost the ability to conceive of ordinary needs. working class people want to do as little as possible on a computer and get back to their lives. the computer is a means to an end. the industry forgot that. make this concrete with a scene, not a thesis: at one startup, the deck is up, the language is all "AI-powered," "scalable," "transformative." you know what the thing actually does — you built it, or watched it get built — and the gap between those two realities is wide enough to fall through. nobody in the room is thinking about a person sitting down to use this thing. the user has become a unit of monetization.
+This is a founder's story, not an industry critique. The subject is you, not Silicon Valley. The disillusionment is texture, not argument. The essay's arc: wonder → dissonance → a philosophy forged by doing it differently → what you're building now and why.
 
-the janitor's interface: the sharpest scene in the essay. they told you that you were over-indexing on design for the app the janitors use. the managers are the buyers. display as little as possible to get them to do their job. this pattern repeats: the factory operator at Dirac, the warehouse picker at Flexe — the people whose hands are actually full always get the worst interfaces. the business logic isn't wrong, which is the point. applied consistently and rationally across the whole industry, it produces a world where the people who do things are never the priority. include that the Flexe version cost you — you built the picker UX when it wasn't the priority and it contributed to the layoff. building for people has actually cost you something. that matters.
+## The gap (one scene, kept short)
 
-AI as the apex: not a new problem, an acceleration of an existing one. unprecedented capital poured into an industry that already lost its soul. one plain paragraph on how models actually work — pattern matching, statistical, no intention — to puncture the "replaces everything" claim. the blob floating through text. Cheng Lou's website full of AI images. these are products built to impress other engineers and investors, not people. the VC room doesn't ask about the product, it asks about the market. the user has disappeared entirely.
+The janitor's interface. This is the single scene that carries the weight of everything wrong. They told you that you were over-indexing on design for the app the janitors use. The managers are the buyers. Display as little as possible to get them to do their job. This pattern repeated: the factory operator at Dirac, the warehouse picker at Flexe. The people whose hands are actually full always get the worst interfaces. The business logic isn't wrong, which is the point. Don't linger here arguing — let the scene speak and move on.
 
-the romanticization acknowledgment: these companies were never innocent. google was always going to become what it became. but there was a window where the weirdness was still in charge. name that honestly.
+The Flexe version cost you. You built the picker UX when it wasn't the priority and it contributed to the layoff. Building for people has actually cost you something. That matters, and it earns you the right to the philosophy that follows. Name it plainly and don't dramatize it.
 
-the close: what building for people actually looks like. REX needed a face and a soul — you knew this instinctively before anyone taught you. the technician running calibrations on a 40-year-old HP85 was obvious to you as a real person. in the VC room, that person had vanished. Drumhaus: free, non-extractive, for anyone. you've been doing the same thing your whole life. the industry just kept telling you it was the wrong priority.
+One paragraph of compressed texture for the broader industry dissonance — the VC rooms, the decks full of "AI-powered" and "scalable," the gap between what you built and how it was sold. This is atmosphere, not a thesis. Don't give it more than a paragraph. The reader needs to feel the gap, not be lectured about it.
 
-building for people doesn't mean just building for managers, or the technocratic, capitalist class. it also means building for warehouse workers, technicians, and janitors. it means recognizing the computer for what it is, a means to an end. recognizing that the average person doesn't need a computer embedded into every facet of their daily life. they want to use computers where they are useful and skip them where they are not. it is up to us, the builders, to have the foresight to determine what that surface area is for new product ideas, how to evolve our existing products with such humility, and where to draw the line when we've crossed over that threshold. great products have been and will continue to be built by putting the person front and center, at a higher priorty than the investor, the theoretical "user" as a number, or the technocrat and his values. The computer is a medium through which we express something that would have been there without it. To ignore that fact is to decouple the humanity from that medium. To respect that fact is to build great things that can capture people's imaginations, delight them, and keep them circling your product for a very long time.
+## The through-line (the heart of the section)
+
+You've been doing the same thing your whole life. REX needed a face and a soul — you knew this instinctively before anyone taught you. The technician on the HP85 was obvious to you as a real person. Maxinations, Blobby, the Gameboy under the bedsheet — these weren't tech enthusiasm, they were a creative kid using whatever tool was in front of him. The thread is continuous. The industry kept telling you it was the wrong priority. You kept choosing it anyway.
+
+This is the section where the reader should feel the origin of a design philosophy, not the accumulation of grievances. The tone is closer to conviction than anger. You saw something clearly that the rooms you were in didn't, and you paid a price for it, and you're still here.
+
+## The close
+
+Drumhaus: free, non-extractive, built for anyone who wants to make music. The computer as a medium for something that would have been there without it. This is where the essay lands — not on what's wrong with tech, but on what you're building instead and why it looks the way it does.
+
+The closing paragraph is the design philosophy stated plainly. Keep it. But it should arrive as the natural conclusion of the story, not as a manifesto bolted onto the end. The reader should already believe it before you say it.
+
+## What to cut or compress
+
+- The class argument as a standalone section — fold the sharpest insight (working class people want to do as little as possible on a computer and get back to their lives) into the janitor scene or the closing philosophy. Don't give it its own heading.
+- AI as the apex — cut entirely from this essay. You're writing it better and at length in Quarks, AI, and Capital. A passing reference is fine. A full paragraph on how LLMs work belongs in the other piece.
+- The romanticization acknowledgment — one sentence at most. "These companies were never innocent, but there was a window where the weirdness was still in charge." Don't elaborate.
+
+## Tone guidance
+
+The failure mode is "angry tech bro mad at tech industry." The success mode is "someone who kept choosing to build for people and is now making that the whole point." Same observations, completely different essay. When in doubt, turn the camera back on yourself — what you built, what it cost, what you learned — not on what the industry got wrong.
 
 deep thesis: "it was a tool and a medium for me to express something that would have been there without it." the whole essay is that sentence.
+
+north star (don't explain this — feel it while writing): the tension isn't socialist vs. capitalist. it's "I see what the industry optimizes for and I think it's leaving money on the table." the janitor's interface isn't charity — it's the insight that the people using the product are the ones who determine whether it actually works. that's a business argument dressed in human language.

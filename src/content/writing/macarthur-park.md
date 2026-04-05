@@ -1,5 +1,5 @@
 ---
-title: "Los Angeles Had a Champs-Élysées"
+title: "MacArthur Park"
 description: ""
 date: "2025-11-08T13:00:00-07:00"
 draft: true

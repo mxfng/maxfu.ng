@@ -13,31 +13,61 @@ Neglect felt central to the condition of the place. A bitter, visual poverty cre
 
 A vibrant patchwork of street vendors lined the surrounding walkways of the neighborhood, huddled beneath makeshift tents that sag and fade in the sun. They were selling a cacophony of goods, of varying quality and mysterious origin. Their patrons form a mosaic of Los Angeles' overlooked — immigrants, many from across Latin America. The children of those immigrants, American born citizens. Day laborers. The unhoused, and those teetering on the edge of it. Some bear the grime of hard living — dirt ground into their palms and under their nails. Their faces and expressions bear an uncanny resemblance to their surroundings: weary yet resilient, etched with the quiet endurance of life on the city's margins.
 
-## Los Angeles had its Champs-Élysées
+## The swamp by the foothills
+
+MacArthur park has been many different places. Like the neighbors who inhabit it today, it rose from humble origins: a swamp, filled with runoff of rainfall from the nearby foothills, occasionally drying out completely under the hot sun. It had a harsh lake, with chalky white edges, the nearby ground pale and barren. It long sat peacefully, a solitary puddle on the landscape. For thousands of years, a native people, the Tongva, resided alongside it, from the hills to the sea.
+
+Then, some two hundred years ago, another people from a far away land laid claim to it, bringing with them a foreign concept: that this land could be owned and sold, with currency. They called their settlement a "pueblo" -- the Spanish had arrived. From that point on, the swamp changed hands: to the Mexicans, then to the United States, each new owner passing it along largely unchanged. And it remained so as it passed through the hands of George S. Patton Sr., who saw nothing of value, and traded it away to the public.
+
+By then, the pueblo had grown into a small city, and new people were arriving from the east. They brought with them their excess, discarding it onto the land, all around the lake, the stench of decomposition mixing with its natural sulfur odor. The land was changing now, after all this time, and very quickly. Now it could be sliced up, sold to the highest bidder, and absorbed into the city's expanding fabric. As the city grew, it moved outward, encroaching on the land, and suddenly people were living around it, by a dump that was once on the edge of nowhere.
+
+The ripe smell of decay and alkali water had become a problem that quickly needed a solution. Property values were dropping as buyers complained of the stench, and land owners couldn't recover their investments. Enter Workman, a landlord himself, owner of the LA Cable Railway, and now mayor of the growing pueblo-turned-city of Los Angeles. He saw what no one else had seen before in the swamp: value to be extracted, and political points to be gained.
+
+To fulfill his ambitions, he envisioned a beautiful park, rivaling the stately parks of the grand cities on the east coast. As mayor, he convinced land owners living around the swamp to donate towards the transformation, and then got the city to match their money. It started ad-hoc, with local shrubs planted on the land's soil. Then, imported eucalyptus and oak trees took root. Then, fertilizer and top soil were imported, with them an array of lush, tropical foliage. Fresh water was piped in, and the harsh smells vanished, the water clear and tranquil.
+
+On the westward edge of the fledgling city, by Thanksgiving of 1890, the swamp of the Tongva, Spanish, and Americans had a brand new name: Westlake Park.
+
+## Los Angeles had its Champs-Élysée
+
+Golden era
 
 <!-- SECTION PLAN:
-Argument: Westlake was genuinely beautiful — but be honest about WHY. The golden era wasn't a pre-capitalist Eden. Workman wanted the park to raise his property values. Wilshire donated land to get a boulevard named after himself. The Bryson filled in two days because rich people wanted to live near beauty. Capital was always there. But capital operated within a culture that valued permanence, craft, and public grandeur as goods in themselves — and that culture produced something real.
-
-The dual question this section must set up:
-- What made civic beauty possible? (craft traditions, public ambition as norm, patience with timescale, a shared assumption that public space should be grand)
-- Why was it so contingent? (always instrumental, always a byproduct of speculation and ego, never built for its own sake — which is why nobody fought hard enough to save it)
+Argument: Let the reader fall in love. This section is purely experiential — show, don't argue. The golden era was real and it was magnificent. Save the reckoning for the next section.
 
 Structure:
-1. The origin — swamp, dump, failed land speculation. Patton traded it because it was worthless. Workman championed it because it raised land values. Honest from the start: beauty was a side effect.
-2. But the beauty was real. The park itself — not an exhaustive amenities list, but selective details that show a civic culture operating ALONGSIDE speculation. The bandshell drawing 10,000. The Herald editorial: "it should be our pride to make this the most esthetic and beautiful city on the continent." A newspaper saying beauty is a civic obligation — when did anyone last say that about LA?
-3. The craft culture — buildings designed by classically trained architects, built by stonemasons and ornamental plasterers. Italian marble stairs, cut-glass chandeliers. This wasn't just money — it was a knowledge infrastructure of skilled trades, aesthetic vocabulary, patience with timescale. People planted trees they'd never see mature.
-4. The neighborhood — dense, deliberate, cosmopolitan. The Bryson, the Arcady, the Town House. Streetcars as connective tissue. Otis Art Institute, Westlake Theatre. This was a real city, not suburbia.
-5. The tension: all of this coexisted with speculation. H.G. Wilshire — wealthy socialist, ran for Congress on a socialist ticket — donated land on condition it bear his name. The boulevard that would later destroy the park was born from the same entrepreneurial ego that built the neighborhood. Beauty and extraction were never separate.
+1. The park in bloom — selective sensory details that show civic life at its peak. The bandshell drawing 10,000. Lantern-lit canoes on the lake. Miller's Military Band. The Herald editorial: "it should be our pride to make this the most esthetic and beautiful city on the continent." A newspaper saying beauty is a civic obligation — when did anyone last say that about LA?
+2. The neighborhood — dense, deliberate, cosmopolitan. The Bryson filling in two days, LA Times comparing it to Manhattan. Italian marble, twin stone lions, top-floor ballroom, views to Catalina. The Arcady's stenciled ceilings. The Town House and the Zebra Room. Streetcars as connective tissue. Otis Art Institute, Westlake Theatre. This was a real city, not suburbia.
+3. The characters — H.G. Wilshire, wealthy socialist radicalized by Henry George, donating land on condition it bear his name. Houdini manacled and diving 14 feet into the lake because LA lacked a river or bridge for his usual stunt. Iowa picnics peaking at 100,000 Midwestern transplants. Chandler living blocks away on Bonnie Brae, the park at the western edge of the city.
+4. The tension (light touch, not analytical) — all of this coexisted with speculation. The boulevard that would later destroy the park was born from the same entrepreneurial ego that built the neighborhood. Beauty and extraction were never separate. But don't explain yet. Let it sit.
 
-Differentiation: lean on details NOT in the Nathan Masters PBS article — the Bryson filling in two days, H.G. Wilshire as wealthy socialist, the Patton land swap, Houdini's jump, Iowa picnics at 100K people. Use newspaper quotes from the Herald (1888-1890) instead of the same Angier/Lummis quotes every article uses.
+Tone: abundance, wonder, specificity. The reader should feel what was here before they're told why it couldn't last.
+
+Differentiation: lean on details NOT in the Nathan Masters PBS article — the Bryson filling in two days, H.G. Wilshire as wealthy socialist, Houdini's jump, Iowa picnics at 100K. Use newspaper quotes from the Herald (1888-1890) instead of the same Angier/Lummis quotes every article uses.
+-->
+
+## What we built, and who built it
+
+<!-- SECTION PLAN:
+Argument: The analytical turn. The previous section let the reader fall in love; this one complicates everything they just enjoyed. The craft culture that produced Westlake's beauty was real — but it was contingent on conditions that were themselves exploitative, and it disappeared for specific, braided reasons. This section reframes the beauty as contingent and lost, setting up Section 3 (destruction) by establishing that the thing being destroyed was already fragile.
+
+The dual question:
+- What made civic beauty possible? (craft traditions, public ambition as norm, patience with timescale, a shared assumption that public space should be grand)
+- Why was it so fragile? (always instrumental, always a byproduct of speculation and ego, never built for its own sake — which is why nobody fought hard enough to save it)
+
+Structure:
+1. The craft culture at its height — buildings designed by classically trained architects, built by stonemasons and ornamental plasterers. Italian marble stairs, cut-glass chandeliers. A knowledge infrastructure of skilled trades, aesthetic vocabulary, patience with timescale. People planted trees they'd never see mature.
+2. Why it disappeared — four threads braided together. First, economics: ornament was affordable because stone carvers earned subsistence wages; when labor costs rose (unions, minimum wage, the postwar middle class), ornament became a luxury line item. Second, standardization killed the skills themselves — mass production and prefab catalogs made the stone carver redundant, apprenticeships disappeared, the knowledge pipeline dried up. The guy who could carve a cornice died and nobody learned from him because there was no economic reason to. Third, an ideological turn: modernism didn't just win on cost, it won as doctrine. Loos, "Ornament and Crime" (1913) — decoration reframed as dishonest, wasteful, regressive. The architectural establishment actively rejected beauty-as-ornament. Even when someone could afford craft, the professional class sneered at it. (The 1984 Lind Building near Culver City broke that consensus and is treated as an oddity, not a model.) Fourth, the financial pipeline: developer-driven construction optimized for speed, every week of building is carrying cost on the loan. The entire supply chain selects for fast, cheap, repeatable. Craft is slow by definition.
+3. The reckoning — the beauty we mourn was built on exploitation, and the system that exploited those workers eventually discarded the beauty too, through economics, deskilling, ideology, and finance all compounding at once. We couldn't rebuild Westlake today even if we wanted to — not just because of money but because the knowledge infrastructure is gone. The conditions that made it possible no longer exist.
+
+Tone: controlled, honest, analytical. Not angry yet — save that for "What we do to beautiful things." This section is the clear-eyed diagnosis. The reader should feel the ground shift under the beauty they just admired.
 -->
 
 ## What we do to beautiful things
 
 <!-- SECTION PLAN:
-Argument: America builds beauty as a byproduct of other motives — profit, speculation, vanity, power — and destroys it just as casually when those motives shift. The park was never the point. It was a side effect of land speculation that happened to produce something genuinely civic, and when the math changed, nobody protected it because nobody had built it for its own sake. The causeway is the opening wound, but the story is bigger than cars: it's government choices, imperial vanity, war, capital flight, police corruption, and the slow compounding of all of it.
+Argument: The destruction myth. If Section 1 is how the park was made — swamp to civic jewel, through speculation and ambition — then this section is the mirror: how it was unmade, through the same forces working in reverse. The creation myth had a single arc (neglected land → someone sees value → beauty emerges). The destruction myth has no single arc — it's a slow compounding of cuts, each survivable alone, fatal together. That asymmetry is the point: it takes intention to build something beautiful and only neglect to destroy it.
 
-The park didn't die from any single blow. It survived the causeway. It survived the renaming. It survived demographic transformation. What killed it was the accumulated weight of a system that treats places — and people — as disposable.
+The park didn't die from any single blow. It survived the causeway. It survived the renaming. It survived demographic transformation. What killed it was the accumulated weight of a system that treats places — and people — as disposable. The story is bigger than cars: it's government choices, imperial vanity, war, capital flight, police corruption, and the slow compounding of all of it.
 
 Structure:
 1. THE FIRST CUT — The causeway (1934). Setup: by 1920, motorists were already driving into the lake — the Otis statue was erected partly to deter them. 14 years later the city chose the cheapest option ($93K landfill vs $250K bridge) to cleave the park for car throughput. Citizens protested; courts overruled them. "Destination park" → "drive-through park" (Gardea). North lake drained. Prometheus statue installed next to the fresh wound. 1947, D line streetcar ended. The connective tissue that made the park public — cut.
@@ -45,7 +75,7 @@ Structure:
 3. BUT THE PARK SURVIVED — crucial turn. The causeway wounded it; the renaming insulted it; the golden era ended. But civic life continued: veterans slept there protesting the housing crisis (1947 — "furnishing us guns but offering us only excuses instead of homes"), Iowa picnics drew 100,000 Midwestern transplants, Central American immigrants fleeing US-backed wars made it the heart of a new neighborhood. Different people, same function. The park kept being a public space for 50 more years. Less glamorous, but still civic.
 4. THE PATTERN — zoom out. The causeway wasn't an isolated decision. Venice canals paved over (1924). Bunker Hill bulldozed. Pacific Electric dismantled. LA building beautiful things and destroying them when the calculus shifts. Suburbanization draining dense walkable cores outward through zoning, freeways, redlining. Not just cars — but cars, AND policy, AND capital seeking easier returns in virgin suburbs. The same forces that built Westlake's grandeur (speculation, land value, ego) now working in reverse — extracting value FROM the core instead of building it.
 5. THE COMPOUNDING — late 1980s to late 1990s, everything converges. ~30 murders in 1990. Rampart CRASH scandal — the cops policing the park were themselves a gang (70 officers, "essentially became a gang," $125M in settlements). Institutional departures in rapid succession: Ambassador 1989, Sheraton 1993, Bullock's 1993, Otis 1997. Iowa picnic: 100,000 → 27 (1984). Capital, institutions, the state itself — all abandon or prey upon the same place. THIS is when it stops being a civic space. Not because of one cause but because every system that should have sustained it failed simultaneously.
-6. WHAT REMAINS — the Bryson's stone lions, the Arcady's marble lobby. Fragments of a craft culture that no longer exists — the stonemasons, the ornamental plasterers, the aesthetic vocabulary. We couldn't rebuild Westlake today even if we wanted to, not just because of money but because we've lost the culture that could produce it. The knowledge infrastructure is gone.
+6. WHAT REMAINS — the Bryson's stone lions, the Arcady's marble lobby. Physical fragments of the craft culture whose disappearance was diagnosed in the previous section. These aren't ruins of neglect alone — they're artifacts of a knowledge infrastructure that was already gone before the neighborhood collapsed. The compounding didn't just destroy the park; it destroyed the last context in which those fragments made sense.
 
 Tone: controlled anger, but honest about complexity. This isn't a simple villain story. The same forces built it and destroyed it. The tragedy is that beauty was always contingent — always one budget meeting away from a landfill causeway.
 
@@ -90,9 +120,11 @@ Key lines:
 
 ESSAY ARC: 0. MacArthur Park Now (written) — here is a wound
 
-1. Los Angeles Had Its Champs-Élysées (written, needs revision) — here is accidental beauty: genuine civic grandeur, but built on speculation and ego, not civic commitment. The craft culture and public ambition were real; the motives were not.
-2. What We Do to Beautiful Things (outlined) — here is what happens when the math changes. Not just cars — government, empire, war, capital, police, policy. The park survived each blow for 50 years before the compound weight broke it. Same forces that built it, working in reverse.
-3. What We Can No Longer See (final section) — the system destroyed our ability to see what was lost. The park is still used. The "death" is perceptual. The name "MacArthur" is the residue. Call it Westlake.
+1. The Swamp by the Foothills (written) — the creation myth. Land ownership, speculation, Workman, the park is born.
+2. Los Angeles Had Its Champs-Élysée (outlined) — the golden age. Pure experience: the park and neighborhood at their peak. Let the reader fall in love. Show, don't argue.
+3. What We Built, and Who Built It (outlined) — the analytical turn. The craft culture was real but contingent — four braided reasons it disappeared (labor costs, deskilling, ideology, financial pipeline). Reframes the beauty as exploitative and lost. The reckoning.
+4. What We Do to Beautiful Things (outlined) — the destruction myth. Mirror of section 1: same forces, working in reverse. Creation had a single arc; destruction is slow compounding — cuts, each survivable alone, fatal together. Government, empire, war, capital, police, policy.
+5. What We Can No Longer See (final section) — the system destroyed our ability to see what was lost. The park is still used. The "death" is perceptual. The name "MacArthur" is the residue. Call it Westlake.
 
 TENSE:
 
@@ -214,47 +246,65 @@ Ambassador Hotel (1921) — 1,000 rooms. Closed 1989. Demolished for RFK schools
 Bullock's Wilshire (1929) — Art Deco, the Parkinsons. Closed 1993.
 
 ============================================================
-RESEARCH — FOR SECTION 2: PARASITE OF SPRAWL
+RESEARCH — FOR SECTION 2: WHAT WE DO TO BEAUTIFUL THINGS
 ============================================================
 
-THE CAUSEWAY (1934):
+THE FIRST CUT — CAUSEWAY (1934):
 
+- Otis statue (1920) erected partly because motorists were driving into the lake — cars already encroaching.
 - Bridge: $250K. City chose: $93K earthen causeway (~$2.1M today). (LAist)
 - 300 protested at Public Works Committee (LAist). Possibly 800 at Royal Palms Hotel (Gardea — unverified).
 - Completed Dec 7, 1934. Southern lake eventually filled in entirely.
 - Connected Wilshire with Orange Street; Orange renamed Wilshire → linked to downtown.
 - "Destination park" → "drive-through park" (Gardea). Tunnels created unsafe areas. Car fumes made air sooty.
+- Prometheus statue installed next to fresh wound (1935).
+- 1947: D line streetcar to park ended — connective tissue cut.
 
-THE RENAMING (May 7, 1942):
+THE NAME ERASED — RENAMING (May 7, 1942):
 
 - Hearst's operative "pushed the change through before the neighborhood knew" (Conservancy / Brightwell)
+- Full chain: Hearst → Spanish-American War (for circulation) → Philippines colonized → MacArthur's legend → park renamed for a general who never visited, for a presidential run that never happened
 - Papers wrote "formerly Westlake Park" until at least 1953 — over a decade. (Brightwell)
 
-PARALLEL LOSSES:
+BUT THE PARK SURVIVED — continued civic life:
+
+- 1947 "Big Sleep": 1,500 WWII vets protested housing crisis. "We want to know why our country had no trouble in furnishing us guns and ammunition but now offers us only excuses instead of homes." (Brightwell)
+- Filipino veterans protested in the park named after their former commander. 1946 Rescission Act stripped benefits. 1997 "Equity Village" sit-in. 2009: Congress paid $15K/$9K. (Wikipedia / PBS)
+- Iowa picnics: peaked at ~100,000. 1982: 35 people. 1984 (last one): 27. (Brightwell, 2022)
+- Central American civil wars (1970s-80s) → Westlake became "Little Central America" / Pequeno Centroamerica. LA now hosts largest Salvadoran and Guatemalan populations outside those countries. (Brightwell)
+
+THE PATTERN — parallel losses:
 
 - Venice canals: 16 mi, imported gondoliers, 1905. Paved over 1924. Kinney died 1920.
 - Bunker Hill: bulldozed
 - Pacific Electric: dismantled
 - (Find more)
 
-DECLINE:
+THE COMPOUNDING — decline:
 
 - Lake drained 1973, 1978: hundreds of handguns, coins, streetcar tokens, brass knuckles. John Woods made sculptures from the objects. (Brightwell)
 - 1991: lake drained for Red Line — 9 meters beneath lakebed. Bottom paved with asphalt. (Brightwell)
 - ~30 murders in 1990. "Ellis Island of the west." (Wikipedia)
 - Rampart CRASH scandal: 70 officers, "essentially became a gang." 106 convictions overturned, $125M settlements. (Wikipedia / Air/Light)
+- 2007 May Day: immigration rallies; police motorcycles through crowds. $13M in damages. (Wikipedia)
 
 INSTITUTIONAL DEPARTURES:
 
 - Ambassador 1989 / Sheraton Feb 1993 / Bullock's 1993 / Otis 1997
 
 ============================================================
-RESEARCH — FOR SECTION 3: ALIENATION
+RESEARCH — FOR SECTION 3: WHAT WE CAN NO LONGER SEE
 ============================================================
 
-(Mostly argumentative/personal — not research-dependent.)
+(Mostly argumentative/personal — not research-dependent. Key research inputs already in sections 1 and 2.)
 
-- Central American civil wars (1970s-80s) → Westlake became "Little Central America" / Pequeno Centroamerica. LA now hosts largest Salvadoran and Guatemalan populations outside those countries. (Brightwell)
+VISIT THE PARK AGAIN — images needed for closing:
+
+- The Bryson today. The Arcady. The Town House as low-income housing. What does golden-era architecture look like standing inside decay?
+- The causeway — stand on it, describe what's on either side
+- The misspelled "Promethus" — Saemundsson WPA sculpture, 1931. (Brightwell)
+- MacArthur statue (1955): overlooks "islands representing the Philippines." (Brightwell)
+- The Otis statue "pointing west, down Wilshire Boulevard" — soldier figure WENT MISSING
 
 ============================================================
 TANGENTIAL — outside essay's arc, kept for reference
@@ -266,19 +316,8 @@ LGBTQ HISTORY:
 - John Ray Thompson (1951): died fleeing police entrapment at park. (Brightwell)
 - Stuart Engstrand (1955): novelist, walked into lake clothed, drowned. (Brightwell; TIME Sept 19 1955)
 
-VETERANS:
-
-- 1947 "Big Sleep": 1,500 WWII vets protested housing crisis. "We want to know why our country had no trouble in furnishing us guns and ammunition but now offers us only excuses instead of homes." (Brightwell)
-- Filipino veterans protested in park named after their former commander. 1946 Rescission Act. 1997 "Equity Village" sit-in. 2009: Congress paid $15K/$9K. (Wikipedia / PBS)
-
-2007 MAY DAY:
-
-- Immigration rallies; police motorcycles through crowds. $13M in damages. (Wikipedia)
-
 MISCELLANY:
 
-- Misspelled "Promethus" — Saemundsson WPA sculpture, 1931. (Brightwell)
-- MacArthur statue (1955): overlooks "islands representing the Philippines." (Brightwell)
 - Electric boats named after comic characters (1940s+). (Wikipedia)
 - Before opening, Harriet Hutchins (51, "melancholia") drowned herself in lake. (Brightwell)
 - Swans Rudie and Susie: five cygnets 1956, first in a decade. (Wikipedia)

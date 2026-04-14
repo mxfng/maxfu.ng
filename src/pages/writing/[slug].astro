@@ -4,26 +4,27 @@ import Layout from "@/layouts/layout.astro";
 import PrevNext from "@/components/ui/prev-next.astro";
 import { getPrevNext } from "@/lib/get-prev-next";
 import { getWritings } from "@/lib/get-collection";
+import { render } from "astro:content";
 
 export async function getStaticPaths() {
   const writings = await getWritings();
   return writings.map((writing) => {
-    const { prevEntry, nextEntry } = getPrevNext(writings, writing.slug);
+    const { prevEntry, nextEntry } = getPrevNext(writings, writing.id);
     return {
-      params: { slug: writing.slug },
+      params: { slug: writing.id },
       props: { writing, prevEntry, nextEntry },
     };
   });
 }
 
 const { writing, prevEntry, nextEntry } = Astro.props;
-const { Content } = await writing.render();
+const { Content } = await render(writing);
 ---
 
 <Layout
   title={writing.data.title}
   description={writing.data.description}
-  slug={writing.slug}
+  slug={writing.id}
   image={writing.data.image}
 >
   <div class="w-full space-y-12">
@@ -60,7 +61,7 @@ const { Content } = await writing.render();
               prevEntry
                 ? {
                     label: prevEntry.title,
-                    href: `/writing/${prevEntry.slug}`,
+                    href: `/writing/${prevEntry.id}`,
                   }
                 : undefined
             }
@@ -68,7 +69,7 @@ const { Content } = await writing.render();
               nextEntry
                 ? {
                     label: nextEntry.title,
-                    href: `/writing/${nextEntry.slug}`,
+                    href: `/writing/${nextEntry.id}`,
                   }
                 : undefined
             }

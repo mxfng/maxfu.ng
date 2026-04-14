@@ -4,7 +4,7 @@ function getPrevNext(
   entries: CollectionEntry<"writing">[],
   currentSlug: string,
 ) {
-  const currentIndex = entries.findIndex((entry) => entry.slug === currentSlug);
+  const currentIndex = entries.findIndex((entry) => entry.id === currentSlug);
 
   const prevEntry = entries[currentIndex - 1];
   const nextEntry = entries[currentIndex + 1];
@@ -12,13 +12,13 @@ function getPrevNext(
   return {
     prevEntry: prevEntry
       ? {
-          slug: prevEntry.slug,
+          id: prevEntry.id,
           title: prevEntry.data.title,
         }
       : null,
     nextEntry: nextEntry
       ? {
-          slug: nextEntry.slug,
+          id: nextEntry.id,
           title: nextEntry.data.title,
         }
       : null,

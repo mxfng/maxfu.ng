@@ -13,7 +13,7 @@ export async function GET(context: APIContext) {
       title: writing.data.title,
       description: writing.data.description,
       pubDate: writing.data.date,
-      link: `/writing/${writing.slug}/`,
+      link: `/writing/${writing.id}/`,
     })),
   });
 }

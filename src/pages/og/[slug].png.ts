@@ -7,7 +7,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return writings
     .filter((w) => !w.data.image)
     .map((writing) => ({
-      params: { slug: writing.slug },
+      params: { slug: writing.id },
       props: { title: writing.data.title },
     }));
 };

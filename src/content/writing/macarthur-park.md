@@ -5,13 +5,13 @@ date: "2025-11-08T13:00:00-07:00"
 draft: true
 ---
 
-Though I've resided in Los Angeles for many years, I've seldom visited MacArthur Park. For a long time, I wasn't even aware of its existence, let alone its rich history. At some point, there came a day when a route I was on passed it by, and for the first time I saw it: a picturesque lake crowned by a fountain that bursts towards the sky, a tranquil oasis amidst a bustling city. Grand old trees lined its edges, meandering footpaths along gentle curves, with smooth fields of green grass, against a backdrop of distant skyscrapers.
+Though I've resided in Los Angeles for many years, I've seldom visited MacArthur Park. For a long time, its presence evaded me, its rich history hidden in plain sight. Then one day, I passed it by, and for the first time I saw it: a picturesque lake crowned by a fountain that bursts towards the sky, a tranquil oasis amidst a bustling city. Grand old trees lined its edges, meandering footpaths along gentle curves, with smooth fields of green grass, against a backdrop of distant skyscrapers.
 
-The surrounding neighborhood showed clear signs of sustained decline: payday loan storefronts, boarded-up shops, trash bags split open on the sidewalks, their contents mingling with windblown litter. A man nodded off against a graffitied wall, layers of paint behind him telling the story of countless attempts to erase the same tags. Beautiful old buildings — Spanish Revival, Art Deco, Beaux-Arts — stood subtly within the deteriorating urban form. They looked tired now, their facades cracked and faded through years of weathering and neglect.
+The neighborhood showed clear signs of sustained decline: payday loan storefronts, boarded-up shops, trash bags split open on the sidewalks, their contents mingling with windblown litter. A man nodded off against a graffitied wall, layers of paint behind him telling the story of countless attempts to erase the same tags. Beautiful old buildings — Spanish Revival, Art Deco, Beaux-Arts — stood subtly within the deteriorating urban form. They looked tired now, their facades cracked and faded through years of weathering and neglect.
 
-Neglect felt central to the condition of the place. A bitter, visual poverty crept over the edges of the sidewalks and into the park itself. Surfaces were defaced with writing, cracked and stained. Up close, the water appeared murky and ominous. There was a chilling sense of despair that was impossible to overlook. Human bodies lay inanimate, folding in on themselves like broken marionettes on benches. The park, imagined for the public, including families and children, felt abandoned by them — the space now inhabited by unhoused or by solitary men drifting through, their presence lending the air a quiet tension, a loneliness that seemed to swallow the open space whole.
+A bitter, visual poverty crept over the edges of the sidewalks and into the park. Surfaces were defaced, cracked and stained. Up close, the water appeared murky and ominous. Human bodies lay inanimate, folding in on themselves like broken marionettes. The park, a public, civic space, felt abandoned by the city — now inhabited by unhoused and by solitary men drifting through, their presence lending the air a quiet tension, a loneliness that seemed to swallow the open space whole.
 
-A vibrant patchwork of street vendors lined the surrounding walkways of the neighborhood, huddled beneath makeshift tents that sag and fade in the sun. They were selling a cacophony of goods, of varying quality and mysterious origin. Their patrons form a mosaic of Los Angeles' overlooked — immigrants, many from across Latin America. The children of those immigrants, American born citizens. Day laborers. The unhoused, and those teetering on the edge of it. Some bear the grime of hard living — dirt ground into their palms and under their nails. Their faces and expressions bear an uncanny resemblance to their surroundings: weary yet resilient, etched with the quiet endurance of life on the city's margins.
+A vibrant patchwork of street vendors lined the surrounding walkways of the neighborhood, huddled beneath makeshift tents that sagged and faded under the sun. They were selling a cacophony of goods, of varying quality and mysterious origin. Their patrons formed a mosaic of Los Angeles' overlooked — immigrants, many from across Latin America. The children of those immigrants, American born citizens. Day laborers. The unhoused, and those teetering on the edge of it. Some bore the grime of hard living — dirt ground into their palms and under their nails. Their faces and expressions bore an uncanny resemblance to the surroundings: weary, resilient, etched with the quiet endurance of life on the city's margins.
 
 ## The swamp by the foothills
 
@@ -28,8 +28,6 @@ To fulfill his ambitions, he envisioned a beautiful park, rivaling the stately p
 On the westward edge of the fledgling city, by Thanksgiving of 1890, the swamp of the Tongva, Spanish, and Americans had a brand new name: Westlake Park.
 
 ## Los Angeles had its Champs-Élysée
-
-Golden era
 
 <!-- SECTION PLAN:
 Argument: Let the reader fall in love. This section is purely experiential — show, don't argue. The golden era was real and it was magnificent. Save the reckoning for the next section.

@@ -15,32 +15,40 @@ A vibrant patchwork of street vendors lined the surrounding walkways of the neig
 
 ## The swamp by the foothills
 
-MacArthur park has been many different places. Like the neighbors who inhabit it today, it rose from humble origins: a swamp, filled with runoff of rainfall from the nearby foothills, occasionally drying out completely under the hot sun. It had a harsh lake, with chalky white edges, the nearby ground pale and barren. It long sat peacefully, a solitary puddle on the landscape. For thousands of years, a native people, the Tongva, resided alongside it, from the hills to the sea.
+MacArthur Park has been many different places. Like the neighbors who inhabit it today, it rose from humble origins: a swamp, filled with runoff of rainfall from the nearby foothills, occasionally drying out completely under the hot sun. It had a harsh lake, with chalky white edges, the nearby ground pale and barren. It long sat peacefully, a solitary puddle on the landscape. For thousands of years, a native people, the Tongva, resided alongside it, from the hills to the sea.
 
 Then, some two hundred years ago, another people from a far away land laid claim to it, bringing with them a foreign concept: that this land could be owned and sold, with currency. They called their settlement a "pueblo" -- the Spanish had arrived. From that point on, the swamp changed hands: to the Mexicans, then to the United States, each new owner passing it along largely unchanged. And it remained so as it passed through the hands of George S. Patton Sr., who saw nothing of value, and traded it away to the public.
 
-By then, the pueblo had grown into a small city, and new people were arriving from the east. They brought with them their excess, discarding it onto the land, all around the lake, the stench of decomposition mixing with its natural sulfur odor. The land was changing now, after all this time, and very quickly. Now it could be sliced up, sold to the highest bidder, and absorbed into the city's expanding fabric. As the city grew, it moved outward, encroaching on the land, and suddenly people were living around it, by a dump that was once on the edge of nowhere.
+By then, the pueblo had grown into a small city, and new people were arriving from the east. They brought with them their excess, discarding it onto the land, all around the lake, the stench of decomposition mixing with its sulfuric odor. The land was changing now, after all this time, and very quickly. Now it could be sliced up, sold to the highest bidder, and absorbed into the city's expanding fabric. As the city grew, it moved outward, encroaching on the land, and suddenly people were living around it, by a dump that was once on the edge of nowhere.
 
-The ripe smell of decay and alkali water had become a problem that quickly needed a solution. Property values were dropping as buyers complained of the stench, and land owners couldn't recover their investments. Enter Workman, a landlord himself, owner of the LA Cable Railway, and now mayor of the growing pueblo-turned-city of Los Angeles. He saw what no one else had seen before in the swamp: value to be extracted, and political points to be gained.
+The ripe smell of decay and alkali water had become a problem that quickly needed a solution. Property values were dropping as buyers complained of the stench, and land owners couldn't recover their investments. Enter William H. Workman, a landlord himself, owner of the LA Cable Railway, and now mayor of the growing pueblo-turned-city of Los Angeles. He saw what no one else had seen before in the swamp: value to be extracted, and political points to be gained.
 
 To fulfill his ambitions, he envisioned a beautiful park, rivaling the stately parks of the grand cities on the east coast. As mayor, he convinced land owners living around the swamp to donate towards the transformation, and then got the city to match their money. It started ad-hoc, with local shrubs planted on the land's soil. Then, imported eucalyptus and oak trees took root. Then, fertilizer and top soil were imported, with them an array of lush, tropical foliage. Fresh water was piped in, and the harsh smells vanished, the water clear and tranquil.
 
 On the westward edge of the fledgling city, by Thanksgiving of 1890, the swamp of the Tongva, Spanish, and Americans had a brand new name: Westlake Park.
 
-## Los Angeles had its Champs-Élysée
+## Los Angeles had its Champs-Élysées
+
+The Avenue des Champs-Élysées in Paris, France, has been called the most beautiful avenue in the world. Refined over many generations, an amalgamation of the civic vision of Paris' many leaders, planners, and designers, it set the standard against which the great public spaces of other cities were compared -- including, briefly, the neighborhood around Westlake Park.
+
+In 1895, H. Gaylord Wilshire donated a strip of land to the city on the condition that it be named after him. A wealthy socialist, radicalized by Henry George's Progress and Poverty, Wilshire had run for Congress on the socialist ticket, and, like many elites of his time, projected his power and influence through civic beauty. The resulting boulevard grew alongside Westlake Park, terminating on its western edge.
+
+That western edge quickly accumulated good company. Harrison Gray Otis, the publisher of the Los Angeles Times, and one of the most powerful men in the city, built a Mission Revival mansion, The Bivouac, on Wilshire, directly across from the park. Edward Doheny, an oil magnate, built the luxurious Town House apartments on the park's northern edge. Raymond Chandler rented rooms a few blocks south on Bonnie Brae. Many others followed. The neighborhood around the park had become one of the densest concentrations of wealth and ambition in the American West.
 
 <!-- SECTION PLAN:
 Argument: Let the reader fall in love. This section is purely experiential — show, don't argue. The golden era was real and it was magnificent. Save the reckoning for the next section.
 
 Structure:
 1. The park in bloom — selective sensory details that show civic life at its peak. The bandshell drawing 10,000. Lantern-lit canoes on the lake. Miller's Military Band. The Herald editorial: "it should be our pride to make this the most esthetic and beautiful city on the continent." A newspaper saying beauty is a civic obligation — when did anyone last say that about LA?
-2. The neighborhood — dense, deliberate, cosmopolitan. The Bryson filling in two days, LA Times comparing it to Manhattan. Italian marble, twin stone lions, top-floor ballroom, views to Catalina. The Arcady's stenciled ceilings. The Town House and the Zebra Room. Streetcars as connective tissue. Otis Art Institute, Westlake Theatre. This was a real city, not suburbia.
 3. The characters — H.G. Wilshire, wealthy socialist radicalized by Henry George, donating land on condition it bear his name. Houdini manacled and diving 14 feet into the lake because LA lacked a river or bridge for his usual stunt. Iowa picnics peaking at 100,000 Midwestern transplants. Chandler living blocks away on Bonnie Brae, the park at the western edge of the city.
+2. The neighborhood — dense, deliberate, cosmopolitan. The Bryson filling in two days, LA Times comparing it to Manhattan. Italian marble, twin stone lions, top-floor ballroom, views to Catalina. The Arcady's stenciled ceilings. The Town House and the Zebra Room. Streetcars as connective tissue. Otis Art Institute, Westlake Theatre. This was a real city, not suburbia.
 4. The tension (light touch, not analytical) — all of this coexisted with speculation. The boulevard that would later destroy the park was born from the same entrepreneurial ego that built the neighborhood. Beauty and extraction were never separate. But don't explain yet. Let it sit.
 
 Tone: abundance, wonder, specificity. The reader should feel what was here before they're told why it couldn't last.
 
 Differentiation: lean on details NOT in the Nathan Masters PBS article — the Bryson filling in two days, H.G. Wilshire as wealthy socialist, Houdini's jump, Iowa picnics at 100K. Use newspaper quotes from the Herald (1888-1890) instead of the same Angier/Lummis quotes every article uses.
+
+Thinking about being a neutral narrator. My intent: show the reader that Westlake Park was a fashionable place for Los Angeles' wealthiest. Why? Because it's stark contrast to the poverty and decay it endures today. I do not want to glorify an era either though, the gilded age was terrible for anyone who wasn't a rich white man.
 -->
 
 ## What we built, and who built it
@@ -303,22 +311,3 @@ VISIT THE PARK AGAIN — images needed for closing:
 - The misspelled "Promethus" — Saemundsson WPA sculpture, 1931. (Brightwell)
 - MacArthur statue (1955): overlooks "islands representing the Philippines." (Brightwell)
 - The Otis statue "pointing west, down Wilshire Boulevard" — soldier figure WENT MISSING
-
-============================================================
-TANGENTIAL — outside essay's arc, kept for reference
-============================================================
-
-LGBTQ HISTORY:
-
-- Dale Jennings (1952): Mattachine Society co-founder, arrested for "lewd behavior" in park. Admitted homosexuality, claimed entrapment. Hung jury — first Mattachine victory. (Brightwell)
-- John Ray Thompson (1951): died fleeing police entrapment at park. (Brightwell)
-- Stuart Engstrand (1955): novelist, walked into lake clothed, drowned. (Brightwell; TIME Sept 19 1955)
-
-MISCELLANY:
-
-- Electric boats named after comic characters (1940s+). (Wikipedia)
-- Before opening, Harriet Hutchins (51, "melancholia") drowned herself in lake. (Brightwell)
-- Swans Rudie and Susie: five cygnets 1956, first in a decade. (Wikipedia)
-  -->
-
----
